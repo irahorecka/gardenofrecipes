@@ -23,7 +23,7 @@ export default function Layout({ children }) {
             }}
           />
         </div>
-        <nav className="mt-4 text-lg text-gray-800 font-[cursive] underline">
+        <nav className="mt-4 text-lg text-gray-800 font-semibold font-[cursive] underline">
           <Link to="/">← Back to Home</Link>
         </nav>
       </header>

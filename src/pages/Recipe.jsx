@@ -81,7 +81,7 @@ export default function Recipe() {
         >
           {md}
         </ReactMarkdown>
-        <nav className="mt-8 text-lg text-gray-800 font-[cursive] underline">
+        <nav className="mt-8 text-lg text-gray-800 font-semibold font-[cursive] underline">
           <Link to="/">← Back to Home</Link>
         </nav>
       </article>

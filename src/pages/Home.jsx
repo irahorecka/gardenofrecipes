@@ -11,7 +11,7 @@ const recipeCategories = Object.entries(recipeIndex).map(
 export default function Home() {
   return (
     <div className="prose mx-auto py-2 text-center text-[110%] max-w-prose">
-      <h1 className="mb-8 text-2xl text-[150%] font-[cursive]">
+      <h1 className="mb-8 text-2xl text-[150%] font-semibold font-[cursive]">
         Schoellman Recipe Archive
       </h1>
       <p>
@@ -45,7 +45,7 @@ export default function Home() {
       </div>
       {recipeCategories.map(({ category, recipes }) => (
         <div key={category} className="mb-8 px-4">
-          <h3 className="text-lg mb-4 text-grey-800 font-[cursive] text-[120%]">
+          <h3 className="text-lg mb-4 text-grey-800 font-semibold font-[cursive] text-[120%]">
             {category}
           </h3>
           <ul className="list-none mb-2 mx-auto text-left max-w-prose text-[95%]">
