@@ -1,19 +1,24 @@
 import { Link } from "react-router-dom";
-import index from "../data/index";
+import recipeIndex from "../data/recipeIndex.json";
 
-const recipeCategories = Object.entries(index).map(([category, { recipes }]) => ({
-  category,
-  recipes,
-}));
+const recipeCategories = Object.entries(recipeIndex).map(
+  ([category, { recipes }]) => ({
+    category,
+    recipes,
+  }),
+);
 
 export default function Home() {
   return (
     <div className="prose mx-auto py-2 text-center text-[110%] max-w-prose">
-      <h1 className="mb-8 text-2xl text-[150%] font-[cursive]">Schoellman Recipe Archive</h1>
+      <h1 className="mb-8 text-2xl text-[150%] font-[cursive]">
+        Schoellman Recipe Archive
+      </h1>
       <p>
-        This is a digital preservation of a family recipe book lovingly compiled
-        by Agnes Schoellman and others. Once gifted in print to Joe Horecka, it
-        now finds a quiet home on the web.
+        This is a digital preservation of a family recipe book, inspired by
+        Texas Czech cuisine and lovingly compiled by Agnes Schoellman and
+        others. Once gifted in print to Joe Horecka, it now finds a quiet home
+        on the web.
       </p>
       <p className="mt-4">
         A full scan of the original spiral-bound edition is available for
@@ -40,7 +45,9 @@ export default function Home() {
       </div>
       {recipeCategories.map(({ category, recipes }) => (
         <div key={category} className="mb-8 px-4">
-          <h3 className="text-lg mb-4 text-grey-800 font-[cursive] text-[120%]">{category}</h3>
+          <h3 className="text-lg mb-4 text-grey-800 font-[cursive] text-[120%]">
+            {category}
+          </h3>
           <ul className="list-none mb-2 mx-auto text-left max-w-prose text-[95%]">
             {recipes.map(({ title, slug, page, pdf }) => (
               <li
@@ -67,7 +74,7 @@ export default function Home() {
               </li>
             ))}
           </ul>
-       </div>
+        </div>
       ))}
     </div>
   );
