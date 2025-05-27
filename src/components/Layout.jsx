@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 export default function Layout({ children }) {
   return (
     <div className="min-h-screen flex flex-col justify-between text-gray-900 font-typewriter">
-      <header className="py-6 mt-12 px-4 text-center">
-        <h1 className="text-4xl md:text-5xl font-bold font-[cursive] tracking-wide">
+      <header className="py-6 mt-8 md:mt-10 px-4 text-center">
+        <h1 className="text-[260%] md:text-[320%] font-bold font-cursive tracking-wide">
           Garden of Recipes: Volume II
         </h1>
-        <div className="mt-8 text-lg md:text-xl text-gray-800 leading-snug">
+        <div className="mt-8 text-lg md:text-xl leading-snug">
           <div>Collected by Agnes Schoellman</div>
           <div>Christmas 1988</div>
         </div>
@@ -23,7 +23,7 @@ export default function Layout({ children }) {
             }}
           />
         </div>
-        <nav className="mt-4 text-lg text-gray-800 font-semibold font-[cursive] underline">
+        <nav className="mt-4 text-lg font-semibold font-cursive underline">
           <Link to="/">← Back to Home</Link>
         </nav>
       </header>
@@ -62,7 +62,7 @@ export default function Layout({ children }) {
         </div>
       </div>
 
-      <footer className="text-center text-sm text-gray-800 mt-2 py-4">
+      <footer className="text-center text-sm mt-2 py-4">
         Schoellman Recipe Archive | Ira Horecka
       </footer>
     </div>

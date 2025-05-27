@@ -59,7 +59,7 @@ export default function Recipe() {
                 <div className="mb-4">
                   <h2 className="text-xl uppercase tracking-wide">{text}</h2>
                   <div
-                    className="text-sm text-gray-800 leading-tight"
+                    className="text-sm leading-tight"
                     style={{ letterSpacing: "0.2em" }}
                   >
                     {"*".repeat(text.length * 1.2)}
@@ -81,7 +81,7 @@ export default function Recipe() {
         >
           {md}
         </ReactMarkdown>
-        <nav className="mt-8 text-lg text-gray-800 font-semibold font-[cursive] underline">
+        <nav className="mt-8 text-lg font-semibold font-cursive underline">
           <Link to="/">← Back to Home</Link>
         </nav>
       </article>
