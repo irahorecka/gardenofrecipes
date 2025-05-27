@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         typewriter: ['"Courier Prime"', "Courier", "monospace"],
+        cursive: ['"Grenze"', "cursive"],
       },
     },
   },
