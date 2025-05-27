@@ -8,7 +8,7 @@ export default function Recipe() {
   const [md, setMd] = useState("");
 
   useEffect(() => {
-    fetch(`/recipes/${slug}.md`)
+    fetch(`/recipes/md/${slug}.md`)
       .then((res) => {
         if (!res.ok) throw new Error(res.statusText);
         return res.text();
@@ -25,35 +25,39 @@ export default function Recipe() {
         <ReactMarkdown
           components={{
             h1: ({ node, ...props }) => (
-              <h1
-                className="my-4 text-2xl md:text-3xl font-bold uppercase tracking-wide"
-                {...props}
-              />
+              <div className="[&+div]:mt-8 mb-4">
+                <h1
+                  className="text-2xl font-bold uppercase tracking-wide"
+                  {...props}
+                />
+              </div>
             ),
             h2: ({ node, ...props }) => {
               const text = String(props.children);
               return (
                 <div className="mb-4">
-                  <h2 className="text-xl font-semibold uppercase tracking-wide">
+                  <h2 className="text-xl uppercase tracking-wide">
                     {text}
                   </h2>
                   <div
-                    className="text-sm text-gray-800 font-mono leading-tight"
-                    style={{ letterSpacing: "0.3em" }}
+                    className="text-sm text-gray-800 leading-tight"
+                    style={{ letterSpacing: "0.2em" }}
                   >
-                    {"*".repeat(text.length)}
+                    {"*".repeat(text.length * 1.2)}
                   </div>
                 </div>
               );
             },
             ul: ({ node, ...props }) => (
-              <ul className="list-disc list-inside mt-2 mb-6" {...props} />
+              <ul className="list-disc list-inside mt-2 mb-10" {...props} />
             ),
             ol: ({ node, ...props }) => (
               <ol className="list-decimal list-inside mt-2" {...props} />
             ),
             li: ({ node, ...props }) => <li className="mb-0" {...props} />,
-            p: ({ node, ...props }) => <p className="mb-10" {...props} />,
+            p: ({ node, ...props }) => (
+              <p className="first:mb-4 mb-10" {...props} />
+            ),
           }}
         >
           {md}
