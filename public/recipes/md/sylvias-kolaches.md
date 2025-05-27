@@ -23,9 +23,9 @@ Makes about 3 1/2 dozen. Very good
 
 ## Instructions
 
-1. Mix together 1/2 cup warm water, 1 tbsp yeast or 1 yeast cake and 1/4 cup sugar. Let this dissolve
-2. Add 2 beaten eggs, 2 1/2 cups flour, and 1 cup milk which has been scalded and cooled. Let all of this rise 15 minutes
-3. Add 6 tbsp sugar, 1 1/2 tsp salt, 1/2 cup pet milk and 1/4 cup each of crisco and oleo. Add enough flour to make a soft dough (about 3 1/2 cups)
+1. Mix together warm water, yeast, and sugar. Let this dissolve
+2. Add beaten eggs, flour, and milk that has been scalded and cooled. Let rise 15 minutes
+3. Add sugar, salt, pet milk, crisco, and oleo. Add flour to make a soft dough
 4. Mix. Butter top with hands. Cover and let rise in a warm place until double
 5. Use as you would other kolache dough. Make in small balls
 6. Put 1 inch apart in greased pans. Let rise about 10 to 15 minutes
