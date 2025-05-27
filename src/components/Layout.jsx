@@ -18,7 +18,7 @@ export default function Layout({ children }) {
             className="mx-auto opacity-100"
             style={{
               imageRendering: "crisp-edges",
-              width: "96px",
+              width: "90px",
               height: "96px",
             }}
           />
@@ -48,7 +48,7 @@ export default function Layout({ children }) {
         </div>
         <div className="max-w-4xl w-full mx-auto px-4 md:px-8">
           <div
-            className="h-6 opacity-80 mt-4 mb-8 md:mb-6"
+            className="h-6 opacity-80 mt-b mt-8 md:mt-6"
             style={{
               backgroundImage: 'url("/pixel-flower-filled.png")',
               backgroundRepeat: "repeat-x",
@@ -62,7 +62,7 @@ export default function Layout({ children }) {
         </div>
       </div>
 
-      <footer className="text-center text-sm text-gray-800 pb-4 pt-6">
+      <footer className="text-center text-sm text-gray-800 mt-2 py-4">
         Schoellman Recipe Archive | Ira Horecka
       </footer>
     </div>
