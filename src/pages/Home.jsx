@@ -45,7 +45,7 @@ export default function Home() {
       </div>
       {recipeCategories.map(({ category, recipes }) => (
         <div key={category} className="mb-8 px-4">
-          <h3 className="text-lg mb-4 text-grey-800 font-semibold font-[cursive] text-[120%]">
+          <h3 className="text-xl mb-4 text-grey-800 font-semibold font-[cursive] text-[120%]">
             {category}
           </h3>
           <ul className="list-none mb-2 mx-auto text-left max-w-prose text-[95%]">
