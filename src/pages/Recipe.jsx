@@ -57,7 +57,7 @@ export default function Recipe() {
               const text = String(props.children);
               return (
                 <div className="mb-4">
-                  <h2 className="text-xl uppercase tracking-wide">{text}</h2>
+                  <h2 className="text-xl text-gray-800 text-base uppercase tracking-wide">{text}</h2>
                   <div
                     className="text-sm leading-tight"
                     style={{ letterSpacing: "0.2em" }}
