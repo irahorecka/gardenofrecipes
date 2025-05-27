@@ -38,14 +38,31 @@ export default function Home() {
         {"*".repeat(60)}
       </div>
       <h2 className="mb-4 text-lg font-semibold tracking-wide text-center">
-        Recipes
+        Index
       </h2>
-      <ul className="list-none mx-auto text-left pl-8 max-w-prose">
+      <ul className="list-none mx-auto text-left px-4 max-w-prose font-mono text-[100%]">
         {recipeList.map(({ title, slug }) => (
-          <li key={slug} className="my-2">
-            <Link to={`/recipes/${slug}`} className="underline">
+          <li
+            key={slug}
+            className="my-2 grid grid-cols-[auto_1fr_auto] items-center gap-x-2 md:gap-x-6"
+          >
+            <Link to={`/recipes/${slug}`} className="underline break-words">
               {title}
             </Link>
+            <span
+              className="mx-2 font-mono whitespace-nowrap overflow-hidden text-center text-[50%] flex-grow"
+              style={{ letterSpacing: "0.3em" }}
+            >
+              {".".repeat(60)}
+            </span>
+            <a
+              href="/recipes/pdf/P0.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline"
+            >
+              1
+            </a>
           </li>
         ))}
       </ul>

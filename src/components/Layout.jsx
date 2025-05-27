@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Layout({ children }) {
   return (
     <div className="min-h-screen flex flex-col justify-between text-gray-900 font-typewriter">
-      <header className="py-6 mt-16 px-4 text-center">
+      <header className="py-6 mt-12 px-4 text-center">
         <h1 className="text-4xl md:text-5xl font-bold font-[cursive] tracking-wide">
           Garden of Recipes: Volume II
         </h1>
