@@ -13,7 +13,7 @@ export default function Layout({ children }) {
         </div>
         <div className="mt-6">
           <img
-            src="/web-icon.png"
+            src="/chef-icon.png"
             alt="Decorative chef icon"
             className="mx-auto opacity-100"
             style={{
