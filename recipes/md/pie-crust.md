@@ -1,7 +1,6 @@
 # Pie Crust
 
-Very good from Dorothy  
-Makes 2 9-inch crusts
+Very good from Dorothy. Makes 2 9-inch crusts.
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Healthful Oatmeal Cookies
 
-Very good. Makes about 75 cookies. I got lots of compliments on these
+Very good. Makes about 75 cookies. I got lots of compliments on these.
 
 ## Ingredients
 

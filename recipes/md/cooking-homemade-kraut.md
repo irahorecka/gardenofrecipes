@@ -1,6 +1,6 @@
 # Cooking Homemade Kraut
 
-Old fashioned Bohemian style
+Old fashioned Bohemian style. You may use a can of bought kraut, but it is better if you use a jar of kraut.
 
 ## Instructions
 
@@ -11,5 +11,3 @@ Old fashioned Bohemian style
 5. In a small bowl, mix a small amount of cold water with enough flour to make a thin paste
 6. Pour the paste into the hot kraut while stirring
 7. Let it boil
-
-You may use a can of bought kraut, but it is better if you use a jar of kraut

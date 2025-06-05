@@ -1,6 +1,6 @@
 # Peanut Butter Oatmeal Cookies
 
-These are good! Makes about 9 dozen
+These are good! Makes about 9 dozen.
 
 ## Ingredients
 

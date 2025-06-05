@@ -1,6 +1,6 @@
 # Banana Cake
 
-Very good. This is very good without icing
+Very good. This is very good without icing.
 
 ## Ingredients
 

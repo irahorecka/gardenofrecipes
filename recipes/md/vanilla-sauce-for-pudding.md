@@ -10,12 +10,12 @@
 
 ## Instructions
 
-1. Bring milk and vanilla to a boil.  
-   _(She used 1 inch of vanilla bean.)_
-2. Cover and set aside.
-3. Beat yolks until a ribbon forms.
-4. Add sugar and cornstarch.
-5. Gradually beat this into the hot milk.
-6. Return to sauce pan and cook over low heat until it coats a spoon.
-7. Stir constantly.
-8. When done, place Saran wrap on top to prevent a skin from forming.
+1. Bring milk and vanilla to a boil  
+   _(She used 1 inch of vanilla bean)_
+2. Cover and set aside
+3. Beat yolks until a ribbon forms
+4. Add sugar and cornstarch
+5. Gradually beat this into the hot milk
+6. Return to sauce pan and cook over low heat until it coats a spoon
+7. Stir constantly
+8. When done, place Saran wrap on top to prevent a skin from forming

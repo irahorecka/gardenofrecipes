@@ -1,6 +1,6 @@
 # Peanut Butter Rice Krispie Squares
 
-These were brought to our school reunion and were great
+These were brought to our school reunion and were great.
 
 ## Ingredients
 

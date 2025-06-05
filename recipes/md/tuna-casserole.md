@@ -12,7 +12,7 @@
 ## Instructions
 
 1. Mix onion, celery, tuna, and mayonnaise.
-2. Put mixture into a casserole dish.
-3. Sprinkle with Parmesan cheese.
-4. Add bread crumbs on top.
-5. Bake at 350°F for about 20 to 25 minutes.
+2. Put mixture into a casserole dish
+3. Sprinkle with Parmesan cheese
+4. Add bread crumbs on top
+5. Bake at 350°F for about 20 to 25 minutes

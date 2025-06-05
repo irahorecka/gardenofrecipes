@@ -1,6 +1,6 @@
 # Cornmeal Pie II
 
-From San Angelo Paper
+From San Angelo Paper.
 
 ## Ingredients
 

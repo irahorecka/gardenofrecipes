@@ -15,8 +15,7 @@ Home Cooking Magazine. These keep indefinitely in the ice box.
 
 ## Instructions
 
-1. Place the sliced cucumbers in a container in the refrigerator  
-   _(I use a gallon glass jar)_
+1. Place the sliced cucumbers in a container in the refrigerator (I use a gallon glass jar)
 2. Add 1 sliced onion per quart of sliced cucumbers
 3. Mix the remaining ingredients to make a vinegar solution
 4. Pour over the sliced cukes and cover

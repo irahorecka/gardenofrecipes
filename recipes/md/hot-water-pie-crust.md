@@ -1,6 +1,6 @@
 # Hot Water Pie Crust
 
-I haven't made this in 20 years
+I haven't made this in 20 years.
 
 ## Ingredients
 

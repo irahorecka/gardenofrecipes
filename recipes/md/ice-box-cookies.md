@@ -1,6 +1,6 @@
 # Ice Box Cookies
 
-From Beepsie (Barbara). These are delicious and crisp. They keep well...until you start tasting
+From Beepsie (Barbara). These are delicious and crisp. They keep well...until you start tasting.
 
 ## Ingredients
 

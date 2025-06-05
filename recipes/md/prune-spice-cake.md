@@ -1,6 +1,6 @@
 # Prune Spice Cake
 
-Printed in a San Antonio newspaper in the '50s
+Printed in a San Antonio newspaper in the '50s.
 
 ## Ingredients
 

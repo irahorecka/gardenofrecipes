@@ -14,9 +14,9 @@
 
 ## Instructions
 
-1. Sauté onion and green pepper in 2 T oleo.
-2. Mix sugar, salt, pepper, and flour together.
-3. Cut up squash and dice peeled tomatoes.
-4. Add squash and tomatoes to sautéed vegetables.
-5. Add seasoning mixture.
-6. Simmer until done, but not until mushy.
+1. Sauté onion and green pepper in 2 T oleo
+2. Mix sugar, salt, pepper, and flour together
+3. Cut up squash and dice peeled tomatoes
+4. Add squash and tomatoes to sautéed vegetables
+5. Add seasoning mixture
+6. Simmer until done, but not until mushy

@@ -1,7 +1,6 @@
 # Easy Crisp Pickles
 
-Dallas Book  
-These are good
+Dallas Book. These are good.
 
 ## Per Quart Jar
 

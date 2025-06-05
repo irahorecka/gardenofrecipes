@@ -16,10 +16,10 @@
 
 ## Instructions
 
-1. Scald milk.
-2. Add butter.
-3. Beat together eggs, sugar, cinnamon, raisins, nuts, salt, and lemon peel.
-4. Add to the milk and butter mixture.
-5. Add bread cubes and stir.
-6. Pour into baking dish and sprinkle nutmeg on top.
-7. Bake at 350 degrees for about 40 minutes.
+1. Scald milk
+2. Add butter
+3. Beat together eggs, sugar, cinnamon, raisins, nuts, salt, and lemon peel
+4. Add to the milk and butter mixture
+5. Add bread cubes and stir
+6. Pour into baking dish and sprinkle nutmeg on top
+7. Bake at 350 degrees for about 40 minutes

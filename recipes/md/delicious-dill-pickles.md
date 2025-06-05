@@ -1,7 +1,6 @@
 # Delicious Dill Pickles
 
-Dallas Book  
-I tried. They are good!
+Dallas Book. I tried. They are good!
 
 ## Per Quart Jar
 

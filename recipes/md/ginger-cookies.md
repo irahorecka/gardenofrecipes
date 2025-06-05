@@ -1,6 +1,6 @@
 # Ginger Cookies
 
-These have a cracked appearance and are firm
+These have a cracked appearance and are firm.
 
 ## Ingredients
 

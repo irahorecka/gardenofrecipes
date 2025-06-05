@@ -9,8 +9,8 @@
 
 ## Instructions
 
-1. Peel and thinly slice cucumber.
-2. Add salt, sugar, and pepper to taste.
-3. Add vinegar and oil.
-4. Optional: mix in onion, green pepper, cream, or parsley.
-5. Mix thoroughly and chill in the ice box before serving.
+1. Peel and thinly slice cucumber
+2. Add salt, sugar, and pepper to taste
+3. Add vinegar and oil
+4. Optional: mix in onion, green pepper, cream, or parsley
+5. Mix thoroughly and chill in the ice box before serving

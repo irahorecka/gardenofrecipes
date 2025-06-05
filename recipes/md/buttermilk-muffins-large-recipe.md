@@ -1,6 +1,6 @@
 # Buttermilk Muffins - Large Recipe
 
-Large recipe - makes 60 muffins. Dough may be kept in the refrigerator for up to 6 weeks
+Large recipe - makes 60 muffins. Dough may be kept in the refrigerator for up to 6 weeks.
 
 ## Ingredients
 
