@@ -2,155 +2,613 @@
   "Kolaches": {
     "pages": "1-3",
     "recipes": [
-      { "title": "Sylvia's Kolaches", "slug": "sylvias-kolaches", "page": 1, "pdf": "P0.pdf"},
-      { "title": "Kolaches - A Small Recipe", "slug": "kolaches-a-small-recipe", "page": 1, "pdf": "P0.pdf"},
-      { "title": "Extra Good Kolaches", "slug": "extra-good-kolaches", "page": 1, "pdf": "P0.pdf"},
-      { "title": "Prize Winner Kolaches from Chicago", "slug": "prize-winner-kolaches-from-chicago", "page": 2, "pdf": "P1.pdf"},
+      {
+        "title": "Sylvia's Kolaches",
+        "slug": "sylvias-kolaches",
+        "page": 1,
+        "pdf": "P0.pdf"
+      },
+      {
+        "title": "Kolaches - A Small Recipe",
+        "slug": "kolaches-a-small-recipe",
+        "page": 1,
+        "pdf": "P0.pdf"
+      },
+      {
+        "title": "Extra Good Kolaches",
+        "slug": "extra-good-kolaches",
+        "page": 1,
+        "pdf": "P0.pdf"
+      },
+      {
+        "title": "Prize Winner Kolaches from Chicago",
+        "slug": "prize-winner-kolaches-from-chicago",
+        "page": 2,
+        "pdf": "P1.pdf"
+      },
       { "title": "Posipka", "slug": "posipka", "page": 2, "pdf": "P1.pdf" },
-      { "title": "Cottage Cheese Filling for Kolaches - I", "slug": "cottage-cheese-filling-for-kolaches-i", "page": 2, "pdf": "P1.pdf"},
-      { "title": "Cottage Cheese Filling for Kolaches - II", "slug": "cottage-cheese-filling-for-kolaches-ii", "page": 2, "pdf": "P1.pdf"},
-      { "title": "Cottage Cheese Filling for Kolaches - III", "slug": "cottage-cheese-filling-for-kolaches-iii", "page": 2, "pdf": "P1.pdf"},
-      { "title": "Prune Filling for Kolaches", "slug": "prune-filling-for-kolaches", "page": 3, "pdf": "P2.pdf"},
-      { "title": "Apricot Filling for Kolaches", "slug": "apricot-filling-for-kolaches", "page": 3, "pdf": "P2.pdf"}
+      {
+        "title": "Cottage Cheese Filling for Kolaches - I",
+        "slug": "cottage-cheese-filling-for-kolaches-i",
+        "page": 2,
+        "pdf": "P1.pdf"
+      },
+      {
+        "title": "Cottage Cheese Filling for Kolaches - II",
+        "slug": "cottage-cheese-filling-for-kolaches-ii",
+        "page": 2,
+        "pdf": "P1.pdf"
+      },
+      {
+        "title": "Cottage Cheese Filling for Kolaches - III",
+        "slug": "cottage-cheese-filling-for-kolaches-iii",
+        "page": 2,
+        "pdf": "P1.pdf"
+      },
+      {
+        "title": "Prune Filling for Kolaches",
+        "slug": "prune-filling-for-kolaches",
+        "page": 3,
+        "pdf": "P2.pdf"
+      },
+      {
+        "title": "Apricot Filling for Kolaches",
+        "slug": "apricot-filling-for-kolaches",
+        "page": 3,
+        "pdf": "P2.pdf"
+      }
     ]
   },
 
   "Breads": {
     "pages": "4-5",
     "recipes": [
-      { "title": "Zucchini Bread", "slug": "zucchini-bread", "page": 4, "pdf": "P3.pdf"},
-      { "title": "Oatmeal Bread", "slug": "oatmeal-bread", "page": 4, "pdf": "P3.pdf"},
-      { "title": "Batter Bread", "slug": "batter-bread", "page": 5, "pdf": "P4.pdf"}
+      {
+        "title": "Zucchini Bread",
+        "slug": "zucchini-bread",
+        "page": 4,
+        "pdf": "P3.pdf"
+      },
+      {
+        "title": "Oatmeal Bread",
+        "slug": "oatmeal-bread",
+        "page": 4,
+        "pdf": "P3.pdf"
+      },
+      {
+        "title": "Batter Bread",
+        "slug": "batter-bread",
+        "page": 5,
+        "pdf": "P4.pdf"
+      }
     ]
   },
 
   "Breakfast Breads": {
     "pages": "6-8",
     "recipes": [
-      { "title": "Banana Muffins", "slug": "banana-muffins", "page": 6, "pdf": "P5.pdf"},
-      { "title": "Streusel Topping", "slug": "streusel-topping", "page": 6, "pdf": "P5.pdf"},
-      { "title": "Apple Muffins", "slug": "apple-muffins", "page": 6, "pdf": "P5.pdf"},
-      { "title": "Buttermilk Muffins - Large Recipe", "slug": "buttermilk-muffins-large-recipe", "page": 7, "pdf": "P6.pdf"},
-      { "title": "Buttermilk Muffins - Small Recipe", "slug": "buttermilk-muffins-small-recipe", "page": 7, "pdf": "P6.pdf"},
-      { "title": "Best Ever Waffles", "slug": "best-ever-waffles", "page": 8, "pdf": "P7.pdf"},
-      { "title": "Basic Pancakes", "slug": "basic-pancakes", "page": 8, "pdf": "P7.pdf"},
-      { "title": "Tender Pancakes", "slug": "tender-pancakes", "page": 8, "pdf": "P7.pdf"}
+      {
+        "title": "Banana Muffins",
+        "slug": "banana-muffins",
+        "page": 6,
+        "pdf": "P5.pdf"
+      },
+      {
+        "title": "Streusel Topping",
+        "slug": "streusel-topping",
+        "page": 6,
+        "pdf": "P5.pdf"
+      },
+      {
+        "title": "Apple Muffins",
+        "slug": "apple-muffins",
+        "page": 6,
+        "pdf": "P5.pdf"
+      },
+      {
+        "title": "Buttermilk Muffins - Large Recipe",
+        "slug": "buttermilk-muffins-large-recipe",
+        "page": 7,
+        "pdf": "P6.pdf"
+      },
+      {
+        "title": "Buttermilk Muffins - Small Recipe",
+        "slug": "buttermilk-muffins-small-recipe",
+        "page": 7,
+        "pdf": "P6.pdf"
+      },
+      {
+        "title": "Best Ever Waffles",
+        "slug": "best-ever-waffles",
+        "page": 8,
+        "pdf": "P7.pdf"
+      },
+      {
+        "title": "Basic Pancakes",
+        "slug": "basic-pancakes",
+        "page": 8,
+        "pdf": "P7.pdf"
+      },
+      {
+        "title": "Tender Pancakes",
+        "slug": "tender-pancakes",
+        "page": 8,
+        "pdf": "P7.pdf"
+      }
     ]
   },
 
   "Cookies and Snacks": {
     "pages": "9-14",
     "recipes": [
-      { "title": "Healthful Oatmeal Cookies", "slug": "healthful-oatmeal-cookies", "page": 9, "pdf": "P8.pdf"},
-      { "title": "Ice Box Cookies", "slug": "ice-box-cookies", "page": 9, "pdf": "P8.pdf"},
-      { "title": "The Best Cookies in the World (???)", "slug": "the-best-cookies-in-the-world", "page": 10, "pdf": "P9.pdf"},
-      { "title": "Brach's Spice Drop Cookies", "slug": "brachs-spice-drop-cookies", "page": 10, "pdf": "P9.pdf"},
-      { "title": "Peanut Butter Crisscrosses", "slug": "peanut-butter-crisscrosses", "page": 11, "pdf": "P10.pdf"},
-      { "title": "Coconut Cookies", "slug": "coconut-cookies", "page": 11, "pdf": "P10.pdf"},
-      { "title": "Peanut Butter Oatmeal Cookies", "slug": "peanut-butter-oatmeal-cookies", "page": 11, "pdf": "P10.pdf"},
-      { "title": "Raisin Spice Cookies", "slug": "raisin-spice-cookies", "page": 12, "pdf": "P11.pdf"},
-      { "title": "Cracked Sugar Cookies", "slug": "cracked-sugar-cookies", "page": 12, "pdf": "P11.pdf"},
-      { "title": "Ginger Cookies", "slug": "ginger-cookies", "page": 13, "pdf": "P12.pdf"},
-      { "title": "Peanut Butter Rice Krispie Squares", "slug": "peanut-butter-rice-krispie-squares", "page": 13, "pdf": "P12.pdf"},
-      { "title": "Carmel Popcorn", "slug": "carmel-popcorn", "page": 14, "pdf": "P13.pdf"}
+      {
+        "title": "Healthful Oatmeal Cookies",
+        "slug": "healthful-oatmeal-cookies",
+        "page": 9,
+        "pdf": "P8.pdf"
+      },
+      {
+        "title": "Ice Box Cookies",
+        "slug": "ice-box-cookies",
+        "page": 9,
+        "pdf": "P8.pdf"
+      },
+      {
+        "title": "The Best Cookies in the World (???)",
+        "slug": "the-best-cookies-in-the-world",
+        "page": 10,
+        "pdf": "P9.pdf"
+      },
+      {
+        "title": "Brach's Spice Drop Cookies",
+        "slug": "brachs-spice-drop-cookies",
+        "page": 10,
+        "pdf": "P9.pdf"
+      },
+      {
+        "title": "Peanut Butter Crisscrosses",
+        "slug": "peanut-butter-crisscrosses",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Coconut Cookies",
+        "slug": "coconut-cookies",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Peanut Butter Oatmeal Cookies",
+        "slug": "peanut-butter-oatmeal-cookies",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Raisin Spice Cookies",
+        "slug": "raisin-spice-cookies",
+        "page": 12,
+        "pdf": "P11.pdf"
+      },
+      {
+        "title": "Cracked Sugar Cookies",
+        "slug": "cracked-sugar-cookies",
+        "page": 12,
+        "pdf": "P11.pdf"
+      },
+      {
+        "title": "Ginger Cookies",
+        "slug": "ginger-cookies",
+        "page": 13,
+        "pdf": "P12.pdf"
+      },
+      {
+        "title": "Peanut Butter Rice Krispie Squares",
+        "slug": "peanut-butter-rice-krispie-squares",
+        "page": 13,
+        "pdf": "P12.pdf"
+      },
+      {
+        "title": "Carmel Popcorn",
+        "slug": "carmel-popcorn",
+        "page": 14,
+        "pdf": "P13.pdf"
+      }
     ]
   },
 
   "Cakes": {
     "pages": "15-18",
     "recipes": [
-      { "title": "Carrot Pineapple Cake", "slug": "carrot-pineapple-cake", "page": 15, "pdf": "P14.pdf"},
-      { "title": "Banana Nut Cake", "slug": "banana-nut-cake", "page": 15, "pdf": "P14.pdf"},
-      { "title": "Philadelphia Cream Cheese Pound Cake", "slug": "philadelphia-cream-cheese-pound-cake", "page": 16, "pdf": "P15.pdf"},
-      { "title": "Prune Spice Cake", "slug": "prune-spice-cake", "page": 16, "pdf": "P15.pdf"},
-      { "title": "Banana Cake", "slug": "banana-cake", "page": 16, "pdf": "P15.pdf"},
-      { "title": "Perfect Spice Cake", "slug": "perfect-spice-cake", "page": 17, "pdf": "P16.pdf"},
-      { "title": "Jelly Roll", "slug": "jelly-roll", "page": 17, "pdf": "P16.pdf"},
-      { "title": "Snickerdoodle Coffee Cake", "slug": "snickerdoodle-coffee-cake", "page": 18, "pdf": "P17.pdf"},
-      { "title": "Delicious Coffee Cake", "slug": "delicious-coffee-cake", "page": 18, "pdf": "P17.pdf"}
+      {
+        "title": "Carrot Pineapple Cake",
+        "slug": "carrot-pineapple-cake",
+        "page": 15,
+        "pdf": "P14.pdf"
+      },
+      {
+        "title": "Banana Nut Cake",
+        "slug": "banana-nut-cake",
+        "page": 15,
+        "pdf": "P14.pdf"
+      },
+      {
+        "title": "Philadelphia Cream Cheese Pound Cake",
+        "slug": "philadelphia-cream-cheese-pound-cake",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Prune Spice Cake",
+        "slug": "prune-spice-cake",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Banana Cake",
+        "slug": "banana-cake",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Perfect Spice Cake",
+        "slug": "perfect-spice-cake",
+        "page": 17,
+        "pdf": "P16.pdf"
+      },
+      {
+        "title": "Jelly Roll",
+        "slug": "jelly-roll",
+        "page": 17,
+        "pdf": "P16.pdf"
+      },
+      {
+        "title": "Snickerdoodle Coffee Cake",
+        "slug": "snickerdoodle-coffee-cake",
+        "page": 18,
+        "pdf": "P17.pdf"
+      },
+      {
+        "title": "Delicious Coffee Cake",
+        "slug": "delicious-coffee-cake",
+        "page": 18,
+        "pdf": "P17.pdf"
+      }
     ]
-  }
-  ,
-
+  },
   "Pies": {
     "pages": "19-24",
     "recipes": [
-      { "title": "Never Fail Pie Crust", "slug": "never-fail-pie-crust", "page": 19, "pdf": "P18.pdf"},
-      { "title": "Pie Crust", "slug": "pie-crust", "page": 19, "pdf": "P18.pdf" },
-      { "title": "Standard Pie Crust", "slug": "standard-pie-crust", "page": 19, "pdf": "P18.pdf" },
-      { "title": "Perfect Pie Crust", "slug": "perfect-pie-crust", "page": 19, "pdf": "P18.pdf" },
-      { "title": "Hot Water Pie Crust", "slug": "hot-water-pie-crust", "page": 19, "pdf": "P18.pdf" },
-      { "title": "Cornmeal Pie from Aunt Celie", "slug": "cornmeal-pie-from-aunt-celie", "page": 20, "pdf": "P19.pdf" },
-      { "title": "Cornmeal Pie II", "slug": "cornmeal-pie-ii", "page": 20, "pdf": "P19.pdf" },
-      { "title": "Chocolate Pie", "slug": "chocolate-pie", "page": 20, "pdf": "P19.pdf" },
-      { "title": "Jeff Davis Pie", "slug": "jeff-davis-pie", "page": 21, "pdf": "P20.pdf" },
-      { "title": "Grandmother 'Cates???' Chess Pie", "slug": "grandmother-cates-chess-pie", "page": 21, "pdf": "P20.pdf" },
-      { "title": "Old Fashioned Dewberry or Blackberry Pie", "slug": "old-fashioned-dewberry-or-blackberry-pie", "page": 21, "pdf": "P20.pdf" },
-      { "title": "Apple Pie", "slug": "apple-pie", "page": 22, "pdf": "P21.pdf" },
-      { "title": "Pecan Pie", "slug": "pecan-pie", "page": 22, "pdf": "P21.pdf" },
-      { "title": "Pecan Pie II", "slug": "pecan-pie-ii", "page": 22, "pdf": "P21.pdf" },
-      { "title": "Coconut Pie", "slug": "coconut-pie", "page": 23, "pdf": "P22.pdf" },
-      { "title": "Lemon Pie from Sammy's", "slug": "lemon-pie-from-sammys", "page": 23, "pdf": "P22.pdf" },
-      { "title": "Lemon Pie from Hulda Schneider", "slug": "lemon-pie-from-hulda-schneider", "page": 23, "pdf": "P22.pdf" },
-      { "title": "Lemon Pie Filling II", "slug": "lemon-pie-filling-ii", "page": 24, "pdf": "P23.pdf" }
+      {
+        "title": "Never Fail Pie Crust",
+        "slug": "never-fail-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Pie Crust",
+        "slug": "pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Standard Pie Crust",
+        "slug": "standard-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Perfect Pie Crust",
+        "slug": "perfect-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Hot Water Pie Crust",
+        "slug": "hot-water-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Cornmeal Pie from Aunt Celie",
+        "slug": "cornmeal-pie-from-aunt-celie",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Cornmeal Pie II",
+        "slug": "cornmeal-pie-ii",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Chocolate Pie",
+        "slug": "chocolate-pie",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Jeff Davis Pie",
+        "slug": "jeff-davis-pie",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Grandmother 'Cates???' Chess Pie",
+        "slug": "grandmother-cates-chess-pie",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Old Fashioned Dewberry or Blackberry Pie",
+        "slug": "old-fashioned-dewberry-or-blackberry-pie",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Apple Pie",
+        "slug": "apple-pie",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Pecan Pie",
+        "slug": "pecan-pie",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Pecan Pie II",
+        "slug": "pecan-pie-ii",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Coconut Pie",
+        "slug": "coconut-pie",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Lemon Pie from Sammy's",
+        "slug": "lemon-pie-from-sammys",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Lemon Pie from Hulda Schneider",
+        "slug": "lemon-pie-from-hulda-schneider",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Lemon Pie Filling II",
+        "slug": "lemon-pie-filling-ii",
+        "page": 24,
+        "pdf": "P23.pdf"
+      }
     ]
   },
 
   "Canning": {
     "pages": "25-28",
     "recipes": [
-      { "title": "Homemade Kraut I", "slug": "homemade-kraut-i", "page": 25, "pdf": "P24.pdf" },
-      { "title": "Homemade Kraut II", "slug": "homemade-kraut-ii", "page": 25, "pdf": "P24.pdf" },
-      { "title": "Cooking Homemade Kraut", "slug": "cooking-homemade-kraut", "page": 25, "pdf": "P24.pdf" },
-      { "title": "1 Gallon Icebox Pickles", "slug": "1-gallon-icebox-pickles", "page": 25, "pdf": "P24.pdf" },
-      { "title": "Frozen Sliced Sweet Pickles", "slug": "frozen-sliced-sweet-pickles", "page": 26, "pdf": "P25.pdf" },
-      { "title": "Delicious Dill Pickles", "slug": "delicious-dill-pickles", "page": 26, "pdf": "P25.pdf" },
-      { "title": "Easy Crisp Pickles", "slug": "easy-crisp-pickles", "page": 27, "pdf": "P26.pdf" },
-      { "title": "3 Day Pickles", "slug": "3-day-pickles", "page": 27, "pdf": "P26.pdf" },
-      { "title": "Tomato Relish", "slug": "tomato-relish", "page": 27, "pdf": "P26.pdf" },
-      { "title": "Head Sausage", "slug": "head-sausage", "page": 28, "pdf": "P27.pdf" }
+      {
+        "title": "Homemade Kraut I",
+        "slug": "homemade-kraut-i",
+        "page": 25,
+        "pdf": "P24.pdf"
+      },
+      {
+        "title": "Homemade Kraut II",
+        "slug": "homemade-kraut-ii",
+        "page": 25,
+        "pdf": "P24.pdf"
+      },
+      {
+        "title": "Cooking Homemade Kraut",
+        "slug": "cooking-homemade-kraut",
+        "page": 25,
+        "pdf": "P24.pdf"
+      },
+      {
+        "title": "1 Gallon Icebox Pickles",
+        "slug": "1-gallon-icebox-pickles",
+        "page": 25,
+        "pdf": "P24.pdf"
+      },
+      {
+        "title": "Frozen Sliced Sweet Pickles",
+        "slug": "frozen-sliced-sweet-pickles",
+        "page": 26,
+        "pdf": "P25.pdf"
+      },
+      {
+        "title": "Delicious Dill Pickles",
+        "slug": "delicious-dill-pickles",
+        "page": 26,
+        "pdf": "P25.pdf"
+      },
+      {
+        "title": "Easy Crisp Pickles",
+        "slug": "easy-crisp-pickles",
+        "page": 27,
+        "pdf": "P26.pdf"
+      },
+      {
+        "title": "3 Day Pickles",
+        "slug": "3-day-pickles",
+        "page": 27,
+        "pdf": "P26.pdf"
+      },
+      {
+        "title": "Tomato Relish",
+        "slug": "tomato-relish",
+        "page": 27,
+        "pdf": "P26.pdf"
+      },
+      {
+        "title": "Head Sausage",
+        "slug": "head-sausage",
+        "page": 28,
+        "pdf": "P27.pdf"
+      }
     ]
   },
 
   "Meats, Dumplings, Noodles, Dressing": {
     "pages": "29-32",
     "recipes": [
-      { "title": "Tuna Casserole", "slug": "tuna-casserole", "page": 29, "pdf": "P28.pdf" },
-      { "title": "Batter Baked Chicken", "slug": "batter-baked-chicken", "page": 29, "pdf": "P28.pdf" },
-      { "title": "Marinated Fryer for Frying", "slug": "marinated-fryer-for-frying", "page": 29, "pdf": "P28.pdf" },
-      { "title": "Chicken and Dumplings", "slug": "chicken-and-dumplings", "page": 30, "pdf": "P29.pdf" },
-      { "title": "Homemade Noodles", "slug": "homemade-noodles", "page": 30, "pdf": "P29.pdf" },
-      { "title": "Dumplings", "slug": "dumplings", "page": 30, "pdf": "P29.pdf" },
-      { "title": "Salmon Patties", "slug": "salmon-patties", "page": 31, "pdf": "P30.pdf" },
+      {
+        "title": "Tuna Casserole",
+        "slug": "tuna-casserole",
+        "page": 29,
+        "pdf": "P28.pdf"
+      },
+      {
+        "title": "Batter Baked Chicken",
+        "slug": "batter-baked-chicken",
+        "page": 29,
+        "pdf": "P28.pdf"
+      },
+      {
+        "title": "Marinated Fryer for Frying",
+        "slug": "marinated-fryer-for-frying",
+        "page": 29,
+        "pdf": "P28.pdf"
+      },
+      {
+        "title": "Chicken and Dumplings",
+        "slug": "chicken-and-dumplings",
+        "page": 30,
+        "pdf": "P29.pdf"
+      },
+      {
+        "title": "Homemade Noodles",
+        "slug": "homemade-noodles",
+        "page": 30,
+        "pdf": "P29.pdf"
+      },
+      {
+        "title": "Dumplings",
+        "slug": "dumplings",
+        "page": 30,
+        "pdf": "P29.pdf"
+      },
+      {
+        "title": "Salmon Patties",
+        "slug": "salmon-patties",
+        "page": 31,
+        "pdf": "P30.pdf"
+      },
       { "title": "Dressing", "slug": "dressing", "page": 31, "pdf": "P30.pdf" },
-      { "title": "Sammy's Chili", "slug": "sammys-chili", "page": 32, "pdf": "P31.pdf" }
+      {
+        "title": "Sammy's Chili",
+        "slug": "sammys-chili",
+        "page": 32,
+        "pdf": "P31.pdf"
+      }
     ]
   },
 
   "Vegetables": {
     "pages": "33-34",
     "recipes": [
-      { "title": "Frozen Slaw", "slug": "frozen-slaw", "page": 33, "pdf": "P32.pdf" },
-      { "title": "Pep Salad", "slug": "pep-salad", "page": 33, "pdf": "P32.pdf" },
-      { "title": "Cucumber Salad", "slug": "cucumber-salad", "page": 33, "pdf": "P32.pdf" },
-      { "title": "Ice Box Cucumber Salad", "slug": "ice-box-cucumber-salad", "page": 33, "pdf": "P32.pdf" },
-      { "title": "Scalloped Potatoes", "slug": "scalloped-potatoes", "page": 34, "pdf": "P33.pdf" },
-      { "title": "Fried Potatoes", "slug": "fried-potatoes", "page": 34, "pdf": "P33.pdf" },
-      { "title": "Summer Squash", "slug": "summer-squash", "page": 34, "pdf": "P33.pdf" },
-      { "title": "Old Fashioned Creamed Cabbage", "slug": "old-fashioned-creamed-cabbage", "page": 34, "pdf": "P33.pdf" }
+      {
+        "title": "Frozen Slaw",
+        "slug": "frozen-slaw",
+        "page": 33,
+        "pdf": "P32.pdf"
+      },
+      {
+        "title": "Pep Salad",
+        "slug": "pep-salad",
+        "page": 33,
+        "pdf": "P32.pdf"
+      },
+      {
+        "title": "Cucumber Salad",
+        "slug": "cucumber-salad",
+        "page": 33,
+        "pdf": "P32.pdf"
+      },
+      {
+        "title": "Ice Box Cucumber Salad",
+        "slug": "ice-box-cucumber-salad",
+        "page": 33,
+        "pdf": "P32.pdf"
+      },
+      {
+        "title": "Scalloped Potatoes",
+        "slug": "scalloped-potatoes",
+        "page": 34,
+        "pdf": "P33.pdf"
+      },
+      {
+        "title": "Fried Potatoes",
+        "slug": "fried-potatoes",
+        "page": 34,
+        "pdf": "P33.pdf"
+      },
+      {
+        "title": "Summer Squash",
+        "slug": "summer-squash",
+        "page": 34,
+        "pdf": "P33.pdf"
+      },
+      {
+        "title": "Old Fashioned Creamed Cabbage",
+        "slug": "old-fashioned-creamed-cabbage",
+        "page": 34,
+        "pdf": "P33.pdf"
+      }
     ]
   },
 
   "Desserts and Miscellaneous": {
     "pages": "35-37",
     "recipes": [
-      { "title": "Old Fashioned Sweet Rice", "slug": "old-fashioned-sweet-rice", "page": 35, "pdf": "P34.pdf" },
-      { "title": "Barbara Davis' Old Fashioned Bread Pudding", "slug": "barbara-davis-old-fashioned-bread-pudding", "page": 35, "pdf": "P34.pdf" },
-      { "title": "Vanilla Sauce for Pudding", "slug": "vanilla-sauce-for-pudding", "page": 35, "pdf": "P34.pdf" },
-      { "title": "Apple Dumplings", "slug": "apple-dumplings", "page": 36, "pdf": "P35.pdf" },
-      { "title": "Cocoa Mix", "slug": "cocoa-mix", "page": 36, "pdf": "P35.pdf" },
-      { "title": "Spice Ornaments for Christmas", "slug": "spice-ornaments-for-christmas", "page": 37, "pdf": "P36.pdf" },
-      { "title": "Potpourri to Freshen Microwave", "slug": "potpourri-to-freshen-microwave", "page": 37, "pdf": "P36.pdf" }
+      {
+        "title": "Old Fashioned Sweet Rice",
+        "slug": "old-fashioned-sweet-rice",
+        "page": 35,
+        "pdf": "P34.pdf"
+      },
+      {
+        "title": "Barbara Davis' Old Fashioned Bread Pudding",
+        "slug": "barbara-davis-old-fashioned-bread-pudding",
+        "page": 35,
+        "pdf": "P34.pdf"
+      },
+      {
+        "title": "Vanilla Sauce for Pudding",
+        "slug": "vanilla-sauce-for-pudding",
+        "page": 35,
+        "pdf": "P34.pdf"
+      },
+      {
+        "title": "Apple Dumplings",
+        "slug": "apple-dumplings",
+        "page": 36,
+        "pdf": "P35.pdf"
+      },
+      {
+        "title": "Cocoa Mix",
+        "slug": "cocoa-mix",
+        "page": 36,
+        "pdf": "P35.pdf"
+      },
+      {
+        "title": "Spice Ornaments for Christmas",
+        "slug": "spice-ornaments-for-christmas",
+        "page": 37,
+        "pdf": "P36.pdf"
+      },
+      {
+        "title": "Potpourri to Freshen Microwave",
+        "slug": "potpourri-to-freshen-microwave",
+        "page": 37,
+        "pdf": "P36.pdf"
+      }
     ]
   }
 }
