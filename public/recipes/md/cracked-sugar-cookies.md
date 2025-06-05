@@ -1,6 +1,6 @@
 # Cracked Sugar Cookies
 
-These are crisp! Makes about 40 cookies
+These are crisp! Makes about 40 cookies.
 
 ## Ingredients
 

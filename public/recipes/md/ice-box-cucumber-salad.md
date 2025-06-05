@@ -13,8 +13,8 @@ From Aunt Mary. Very good
 
 ## Instructions
 
-1. Mix cucumbers, onion, peppers, and salt.
-2. Let sit for 2 1/2 hours. Drain.
-3. In a separate bowl, mix sugar and vinegar. Stir until dissolved.
-4. Put vegetables in jars and pour brine over them.
-5. Seal and keep in the ice box.
+1. Mix cucumbers, onion, peppers, and salt
+2. Let sit for 2 1/2 hours. Drain
+3. In a separate bowl, mix sugar and vinegar. Stir until dissolved
+4. Put vegetables in jars and pour brine over them
+5. Seal and keep in the ice box

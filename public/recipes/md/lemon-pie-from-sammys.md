@@ -1,6 +1,6 @@
 # Lemon Pie from Sammy's
 
-I got the recipe from Dottie Hageman
+I got the recipe from Dottie Hageman.
 
 ## Ingredients
 

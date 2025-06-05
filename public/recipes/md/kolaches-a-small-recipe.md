@@ -1,6 +1,6 @@
 # Kolaches - A Small Recipe
 
-These are very good and tender. Fill and bake as you would bake any kolache
+These are very good and tender. Fill and bake as you would bake any kolache.
 
 ## Ingredients
 

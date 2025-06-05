@@ -1,6 +1,6 @@
 # Cornmeal Pie from Aunt Celie
 
-Makes 2 9-inch pies
+Makes 2 9-inch pies.
 
 ## Ingredients
 

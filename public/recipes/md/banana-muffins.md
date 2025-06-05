@@ -1,6 +1,6 @@
 # Banana Muffins
 
-Makes 12. These are good
+Makes 12. These are good.
 
 ## Ingredients
 

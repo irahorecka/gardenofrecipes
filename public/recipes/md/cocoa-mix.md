@@ -1,6 +1,6 @@
 # Cocoa Mix
 
-This is very economical cocoa mix
+This is very economical cocoa mix.
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ This is very economical cocoa mix
 
 ## Instructions
 
-1. In a bowl, mix all ingredients until well combined.
-2. Store in a container with a tight lid.
-3. When ready to use, place 1/4 cup of mix in a regular cup.
-4. Fill with hot water, stir, and drink.
+1. In a bowl, mix all ingredients until well combined
+2. Store in a container with a tight lid
+3. When ready to use, place 1/4 cup of mix in a regular cup
+4. Fill with hot water, stir, and drink

@@ -18,13 +18,13 @@ This is from the restaurant where I was a cook. This is from a recipe for 10 pou
 
 ## Instructions
 
-1. In a heavy pot, brown the chili meat in shortening.
-2. Add chopped onion and cook until browned, stirring often.
-3. Add chili powder, garlic, paprika, salt, pepper, and cumin.
-4. Add hot water to cover and let simmer.
-5. Mix flour with cold water and stir until smooth.
-6. Stir this into the chili to thicken.
-7. Stir well to prevent burning.
+1. In a heavy pot, brown the chili meat in shortening
+2. Add chopped onion and cook until browned, stirring often
+3. Add chili powder, garlic, paprika, salt, pepper, and cumin
+4. Add hot water to cover and let simmer
+5. Mix flour with cold water and stir until smooth
+6. Stir this into the chili to thicken
+7. Stir well to prevent burning
 
 _Add spices to suit your own taste._
 
@@ -32,6 +32,6 @@ _Add spices to suit your own taste._
 
 At Sammy’s, dry red peppers were used:
 
-- Stems and as many seeds as possible were removed.
-- Peppers were boiled in water, then peeled once cooled.
-- The pulp was mashed or blended and added into the chili.
+- Stems and as many seeds as possible were removed
+- Peppers were boiled in water, then peeled once cooled
+- The pulp was mashed or blended and added into the chili

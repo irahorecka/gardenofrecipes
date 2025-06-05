@@ -1,6 +1,6 @@
 # Prize Winner Kolaches from Chicago
 
-This is an old recipe from a cousin. Very tender - small recipe
+This is an old recipe from a cousin. Very tender - small recipe.
 
 ## Ingredients
 

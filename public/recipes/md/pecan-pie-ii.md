@@ -1,6 +1,6 @@
 # Pecan Pie II
 
-Our number 1 favorite
+Our number 1 favorite.
 
 ## Ingredients
 

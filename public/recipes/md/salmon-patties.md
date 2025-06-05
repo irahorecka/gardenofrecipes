@@ -13,8 +13,8 @@ Aunt Mary
 
 ## Instructions
 
-1. Mix salmon, crackers, onion, pepper, and egg well.
-2. Form mixture into patties.
-3. Mix a little flour and cornmeal together for coating.
-4. Roll patties in the flour-cornmeal mixture.
-5. Fry patties in hot shortening until golden brown.
+1. Mix salmon, crackers, onion, pepper, and egg well
+2. Form mixture into patties
+3. Mix a little flour and cornmeal together for coating
+4. Roll patties in the flour-cornmeal mixture
+5. Fry patties in hot shortening until golden brown

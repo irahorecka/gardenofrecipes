@@ -1,7 +1,6 @@
 # Never Fail Pie Crust
 
-From a lady from Florida  
-Makes 3 or 4 crusts
+From a lady from Florida. Makes 3 or 4 crusts.
 
 ## Ingredients
 

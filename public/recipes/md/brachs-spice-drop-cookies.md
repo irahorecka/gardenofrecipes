@@ -1,6 +1,6 @@
 # Brach's Spice Drop Cookies
 
-Important to use Spicette gum drop brand for flavor
+Important to use Spicette gum drop brand for flavor. These are good.
 
 ## Ingredients
 
@@ -26,4 +26,3 @@ Important to use Spicette gum drop brand for flavor
 6. Stir in gum drops and oatmeal mixture
 7. Make into 1 inch balls and place on greased cookie sheet
 8. Bake at 350°F for about 10 minutes
-9. These are good
