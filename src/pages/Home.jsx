@@ -23,7 +23,7 @@ export default function Home() {
       <p className="mt-4">
         A full scan of the original spiral-bound edition is available for
         download{" "}
-        <a href="/Schoellman_Recipes.pdf" className="underline">
+        <a href="recipes/pdf/GardenOfRecipesComplete.pdf" className="underline">
           here
         </a>
         .
