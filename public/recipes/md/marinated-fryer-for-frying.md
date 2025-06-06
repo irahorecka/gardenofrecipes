@@ -6,8 +6,8 @@ Julie Davis’ recipe — a friend since 1972. This is very good.
 
 - 1 fryer, cut in pieces
 - Salt and pepper
-- 2 T oil
-- 2 T cornstarch
+- 2 tbsp oil
+- 2 tbsp cornstarch
 - Flour (for dredging)
 
 ## Instructions

@@ -7,9 +7,9 @@
 - 1/4 tsp salt
 - 1 1/4 cups hot water
 - 3 egg yolks, slightly beaten
-- 3 T butter
+- 3 tbsp butter
 - 1/3 cup lemon juice
-- 1 T lemon rind
+- 1 tbsp lemon rind
 
 ## Instructions
 
@@ -18,6 +18,6 @@
 3. Mix well and pour into a baked pie shell
 4. Make a meringue of 3 egg whites
 5. Beat gradually
-6. Add 2 T sugar per egg white
+6. Add 2 tbsp sugar per egg white
 7. Top the filling with meringue
 8. Bake at 350 degrees until light brown

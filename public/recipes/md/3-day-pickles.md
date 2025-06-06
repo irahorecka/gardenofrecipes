@@ -10,10 +10,10 @@
 - Grape leaves
 - Alum (size of a grain of rice, optional)
 
-## Brine
+### Brine
 
 - 3 cups rain water
-- 1 cup vinegar _(recipe calls for Speas vinegar)_
+- 1 cup vinegar (recipe calls for Speas vinegar)
 - 1/3 cup canning salt
 
 ## Instructions

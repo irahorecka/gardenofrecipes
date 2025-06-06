@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. Mix onion, celery, tuna, and mayonnaise.
+1. Mix onion, celery, tuna, and mayonnaise
 2. Put mixture into a casserole dish
 3. Sprinkle with Parmesan cheese
 4. Add bread crumbs on top

@@ -7,7 +7,7 @@
 - 2 cups milk
 - 1 tsp cinnamon
 - 2 eggs
-- 4 T butter
+- 4 tbsp butter
 - 1/4 tsp salt
 - 1/2 cup raisins
 - Nuts

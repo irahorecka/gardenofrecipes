@@ -4,9 +4,9 @@ My Aunt Mary Janacek made this for us in 1918–1920. It was very good. I do not
 
 ## Ingredients
 
-- 1 cut up fryer, seasoned with flour, salt and pepper _(fry to brown)_
+- 1 cut up fryer, seasoned with flour, salt and pepper (fry to brown)
 - Batter (similar to pancake batter, no sugar)
-- 1 T finely chopped onion
+- 1 tbsp finely chopped onion
 - Some chopped green pepper
 - Salt and pepper
 

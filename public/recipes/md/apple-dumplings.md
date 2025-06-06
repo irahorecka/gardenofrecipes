@@ -7,7 +7,7 @@ Very good
 - 1 1/2 cups flour
 - 2 tsp baking powder
 - 3/4 tsp salt
-- 4 T Crisco
+- 4 tbsp Crisco
 - 1/2 cup milk
 
 Mix dough and roll out into 6 round or square pieces.
@@ -17,9 +17,9 @@ Mix dough and roll out into 6 round or square pieces.
 - About 4 nice sized apples, peeled and cut into quarters or smaller pieces
 - 2 cups water
 - 1 1/2 cups sugar
-- 2 T butter or oleo
+- 2 tbsp butter or oleo
 - 2 tsp cinnamon
-- 2 T lemon juice
+- 2 tbsp lemon juice
 
 ## Instructions
 

@@ -2,17 +2,19 @@
 
 Dallas Book. I tried. They are good!
 
-## Per Quart Jar
+## Ingredients
+
+### Per Quart Jar
 
 - Fresh dill or dill seed
 - 3 cloves of garlic (or to taste)
 - 1 slice of onion
 - _Optional:_ 1/8 tsp each of turmeric and alum
 
-## Brine (makes enough for 8 to 9 quarts)
+### Brine (makes enough for 8 to 9 quarts)
 
-- 3 quarts water _(rain water is best)_
-- 1 quart 10% acidic vinegar _(National brand with small wooden barrel on label)_
+- 3 quarts water (rain water is best)
+- 1 quart 10% acidic vinegar (National brand with small wooden barrel on label)
 - 3/4 cup canning salt
 - 3/4 cup sugar
 
