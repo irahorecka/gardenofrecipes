@@ -12,7 +12,7 @@
 
 - 1 cup white vinegar
 - 1/2 cup water
-- 1 cup sugar _(or more)_
+- 1 cup sugar (or more)
 - 1 tsp celery seed
 - 1 tsp mustard seed
 

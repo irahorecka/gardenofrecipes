@@ -4,8 +4,8 @@
 
 - 3 eggs, beaten
 - 3/4 cup sugar
-- 2 T lemon juice
-- 1 T cornstarch
+- 2 tbsp lemon juice
+- 1 tbsp cornstarch
 - 1 cup white Karo
 - 1 tsp melted butter or oleo
 - dash of salt

@@ -6,7 +6,7 @@ Aunt Mary
 
 - 1 small can Honey Boy salmon
 - 6 to 8 crushed soda crackers
-- 1 T onion, chopped finely
+- 1 tbsp onion, chopped finely
 - 1/4 tsp pepper (no salt)
 - 1 beaten egg
 - A little flour and cornmeal (for coating)

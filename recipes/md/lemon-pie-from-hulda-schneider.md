@@ -3,13 +3,13 @@
 ## Ingredients
 
 - 1 1/2 cups sugar
-- 5 1/2 T cornstarch
+- 5 1/2 tbsp cornstarch
 - 1 1/2 cups water
 - bit of salt
 - 3 egg yolks
-- 3 T butter
-- 4 T lemon juice
-- 1 1/2 T grated lemon rind
+- 3 tbsp butter
+- 4 tbsp lemon juice
+- 1 1/2 tbsp grated lemon rind
 
 ## Instructions
 

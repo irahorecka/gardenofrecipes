@@ -5,11 +5,11 @@ Home Cooking
 ## Ingredients
 
 - 4 cups thinly sliced cucumbers
-- 1 T dill seed
+- 1 tbsp dill seed
 - 2 onions, sliced
 - 3/4 cup sugar
 - 4 tsp salt
-- 2 T water
+- 2 tbsp water
 - 1/2 cup cider vinegar, slightly diluted
 
 ## Instructions

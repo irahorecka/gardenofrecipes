@@ -8,7 +8,7 @@ Rowena Book. Good
 - 1 tsp baking powder
 - 1 tsp salt
 - 1 egg
-- 1 T Wesson oil
+- 1 tbsp Wesson oil
 - Milk (enough to fill the cup after adding egg)
 - Well-seasoned chicken or beef broth
 

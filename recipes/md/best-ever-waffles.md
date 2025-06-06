@@ -1,5 +1,7 @@
 # Best Ever Waffles
 
+May also be used as pancake batter.
+
 ## Ingredients
 
 - 1 cup flour
@@ -17,4 +19,3 @@
 3. Sift flour, salt, sugar, and baking powder
 4. Mix the milk mixture into the dry ingredients
 5. Bake in a greased waffle iron
-6. May also be used as pancake batter

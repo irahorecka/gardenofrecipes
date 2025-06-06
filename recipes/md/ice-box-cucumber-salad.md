@@ -7,7 +7,7 @@ From Aunt Mary. Very good
 - 5 large cucumbers, all thinly sliced
 - 1 large onion, finely chopped
 - 2 large green and red peppers, finely chopped
-- 1 1/2 T salt
+- 1 1/2 tbsp salt
 - 2 cups sugar
 - 1 cup vinegar
 

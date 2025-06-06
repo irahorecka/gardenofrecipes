@@ -7,14 +7,14 @@ This is from the restaurant where I was a cook. This is from a recipe for 10 pou
 - 1 lb chili meat
 - Small amount of shortening
 - 1 chopped onion
-- 1 T chili powder _(or to taste)_
-- 1/2 tsp garlic powder _(or 1 clove garlic, finely minced)_
+- 1 tbsp chili powder (or to taste)
+- 1/2 tsp garlic powder (or 1 clove garlic, finely minced)
 - 1 1/4 tsp paprika
 - 1/4 tsp salt
 - 1/4 tsp pepper
 - 1/2 tsp cumin
 - Hot water to cover
-- 2–3 T flour mixed in cold water (for thickening)
+- 2–3 tbsp flour mixed in cold water (for thickening)
 
 ## Instructions
 

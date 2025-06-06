@@ -10,8 +10,7 @@
 
 ## Instructions
 
-1. Bring milk and vanilla to a boil  
-   _(She used 1 inch of vanilla bean)_
+1. Bring milk and vanilla to a boil (she used 1 inch of vanilla bean)
 2. Cover and set aside
 3. Beat yolks until a ribbon forms
 4. Add sugar and cornstarch

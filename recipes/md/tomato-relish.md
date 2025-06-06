@@ -4,7 +4,7 @@ From Maria Horecka. This will keep in the ice box for a year. This is good for m
 
 ## Ingredients
 
-- 1 peck ripe tomatoes, peeled and cut coarsely _(1 peck is 8 quarts)_
+- 1 peck ripe tomatoes, peeled and cut coarsely (1 peck is 8 quarts)
 - 12 medium onions, chopped
 - 6 sweet peppers, seeds removed
 - 3–6 hot peppers, seeds removed

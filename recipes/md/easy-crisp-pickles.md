@@ -2,13 +2,15 @@
 
 Dallas Book. These are good.
 
-## Per Quart Jar
+## Ingredients
+
+### Per Quart Jar
 
 - Clean cucumbers
 - Dill
-- 1 T canning salt
+- 1 tbsp canning salt
 
-## Brine (for multiple jars)
+### Brine (for multiple jars)
 
 - 4 cups water
 - 1 1/4 cups sugar
@@ -16,7 +18,7 @@ Dallas Book. These are good.
 
 ## Instructions
 
-1. Put cucumbers, dill, and 1 T canning salt into each quart jar
+1. Put cucumbers, dill, and 1 tbsp canning salt into each quart jar
 2. Mix the brine ingredients together
 3. Pour brine into jars and seal tightly
 4. Place jars in a pot of cold water with a rack at the bottom

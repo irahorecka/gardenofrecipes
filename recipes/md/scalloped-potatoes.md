@@ -3,8 +3,8 @@
 ## Ingredients
 
 - 4 cups sliced, boiled potatoes
-- 2 T oleo or butter
-- 2 T flour
+- 2 tbsp oleo or butter
+- 2 tbsp flour
 - 1 1/2 cup milk
 - Salt and pepper, to taste
 - Grated cheese (for layering)
@@ -12,7 +12,7 @@
 
 ## Instructions
 
-1. Make a cream sauce by frying 2 T oleo or butter and 2 T flour until tan in color
+1. Make a cream sauce by frying 2 tbsp oleo or butter and 2 tbsp flour until tan in color
 2. Add 1 1/2 cup milk and salt and pepper. Stir until smooth
 3. In a greased pan, layer sliced potatoes with the sauce
 4. Sprinkle grated cheese between layers and repeat layering
