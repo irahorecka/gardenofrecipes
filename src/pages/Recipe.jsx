@@ -62,18 +62,22 @@ export default function Recipe() {
                   </h2>
                   <div
                     className="text-sm leading-tight"
-                    style={{ letterSpacing: "0.2em" }}
+                    style={{ letterSpacing: "0.2em", whiteSpace: "pre" }}
                   >
                     {"*".repeat(text.length * 1.2)}
                   </div>
                 </div>
               );
             },
+            h3: ({ node, ...props }) => {
+              const text = String(props.children);
+              return <h3 className="uppercase">{text}</h3>;
+            },
             ul: ({ node, ...props }) => (
               <ul className="list-disc list-inside mt-2 mb-8" {...props} />
             ),
             ol: ({ node, ...props }) => (
-              <ol className="list-decimal list-inside mt-2" {...props} />
+              <ol className="list-decimal list-inside mt-2 mb-8" {...props} />
             ),
             li: ({ node, ...props }) => <li className="mb-0" {...props} />,
             p: ({ node, ...props }) => (
