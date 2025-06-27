@@ -5,4 +5,11 @@ export default defineConfig({
   base: "/",
   plugins: [react()],
   assetsInclude: ["**/*.md"],
+  build: {
+    rollupOptions: {
+      input: {
+        main: "index.html",
+      },
+    },
+  },
 });
