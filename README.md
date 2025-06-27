@@ -1,12 +1,34 @@
-# React + Vite
+# Garden of Recipes: Volume II
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Static website to host _Garden of Recipes: Volume II (Christmas 1988)_ by Agnes Schoellman.
 
-Currently, two official plugins are available:
+Built using [Vite](https://vitejs.dev/) with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Deployed to GitHub Pages at [gardenofrecipes.org](https://gardenofrecipes.org).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Structure
 
-## Expanding the ESLint configuration
+This is a single-page application (SPA) using React Router v7. Routes like `/recipes/basic-pancakes` are resolved client-side. A fallback `404.html` (copied from `index.html`) ensures routing works on reload when served via GitHub Pages.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Stack
+
+- **Framework**: React 19 + Vite 6
+- **Styling**: Tailwind CSS with Typography plugin
+- **Markdown Rendering**: `react-markdown` + `gray-matter`
+- **Routing**: `react-router-dom@7`
+- **Deployment**: GitHub Pages (`gh-pages`)
+- **Linting**: ESLint with React hooks and refresh plugins
+
+## Scripts
+
+```bash
+npm run dev        # Start local dev server
+npm run build      # Build + copy index.html to 404.html
+npm run preview    # Preview local build
+npm run deploy     # Deploy to GitHub Pages
+npm run clean      # Remove build output
+```
+
+## Notes
+
+- Markdown recipes are stored under `public/`.
+- Recipe metadata is parsed using `gray-matter`.
+- The main entry point is `src/main.jsx`. Routes are defined in `src/App.jsx`.
