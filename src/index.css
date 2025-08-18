@@ -9,3 +9,10 @@ body {
   background-attachment: fixed;
   font-family: "EB Garamond", Georgia, serif;
 }
+
+.recipe-title {
+  @apply underline text-left break-words;
+}
+.recipe-meta {
+  @apply text-xs text-gray-500 text-right justify-self-end;
+}

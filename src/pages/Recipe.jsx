@@ -4,7 +4,7 @@ import { Link, useParams } from "react-router-dom";
 import RecipesLayout from "../components/RecipesLayout";
 import recipeIndex from "../data/recipeIndex.json";
 
-export default function Recipe() {
+export default function Recipes() {
   const { slug } = useParams();
   const [md, setMd] = useState("");
   const [pdfUrl, setPdfUrl] = useState("");

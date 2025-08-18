@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import recipeIndex from "../data/recipeIndex.json";
+import RecipesSearch from "../components/RecipesSearch";
 
 const recipeCategories = Object.entries(recipeIndex).map(
   ([category, { recipes }]) => ({
@@ -14,6 +15,7 @@ export default function Home() {
       <h1 className="mb-8 text-[180%] font-semibold font-cursive">
         Schoellman Recipe Archive
       </h1>
+      <RecipesSearch autoFocus />
       <p>
         This is a digital preservation of a family recipe book, inspired by
         Texas Czech cuisine and lovingly compiled by Agnes Schoellman and
