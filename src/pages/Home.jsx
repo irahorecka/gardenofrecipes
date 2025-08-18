@@ -11,18 +11,17 @@ const recipeCategories = Object.entries(recipeIndex).map(
 
 export default function Home() {
   return (
-    <div className="prose mx-auto py-2 text-center text-[110%] max-w-prose">
-      <h1 className="mb-8 text-[180%] font-semibold font-cursive">
+    <div className="prose mx-auto py-1 text-center text-[110%] max-w-prose">
+      <h1 className="mb-6 text-[180%] font-semibold font-cursive">
         Schoellman Recipe Archive
       </h1>
-      <RecipesSearch autoFocus />
       <p>
         This is a digital preservation of a family recipe book, inspired by
         Texas Czech cuisine and lovingly compiled by Agnes Schoellman and
         others. Once gifted in print to Joe Horecka, it now finds a quiet home
         on the web.
       </p>
-      <p className="mt-4">
+      <p className="mt-4 mb-6">
         A full scan of the original spiral-bound edition is available for
         download{" "}
         <a
@@ -35,6 +34,7 @@ export default function Home() {
         </a>
         .
       </p>
+      <RecipesSearch autoFocus />
       <div
         className="my-6 text-gray-800 text-base text-center"
         style={{
