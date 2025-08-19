@@ -36,7 +36,7 @@ export default function Home() {
       </p>
       <RecipesSearch autoFocus />
       <div
-        className="my-6 text-gray-800 text-base text-center"
+        className="mt-8 mb-6 text-gray-800 text-base text-center"
         style={{
           fontSize: "16px",
           letterSpacing: "0.3em",

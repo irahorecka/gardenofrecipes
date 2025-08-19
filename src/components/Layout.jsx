@@ -48,7 +48,7 @@ export default function Layout({ children }) {
         </div>
         <div className="max-w-4xl w-full mx-auto px-4 md:px-8">
           <div
-            className="h-6 opacity-80 mt-b mt-4"
+            className="h-6 opacity-80 mt-b mt-6"
             style={{
               backgroundImage: 'url("/pixel-flower-filled.png")',
               backgroundRepeat: "repeat-x",
