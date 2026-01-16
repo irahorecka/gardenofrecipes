@@ -16,7 +16,7 @@ export default function Home() {
         Schoellman Recipe Archive
       </h1>
       <p>
-        This is a digital preservation of a family recipe book, inspired by
+        A digital preservation of a family recipe book, inspired by
         Texas Czech cuisine and lovingly compiled by Agnes Schoellman and
         others. Once gifted in print to Joe Horecka, it now finds a quiet home
         on the web.
