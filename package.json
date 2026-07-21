@@ -8,6 +8,7 @@
     "build": "vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "lint": "eslint .",
+    "validate": "node scripts/validate-recipes.mjs",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "clean": "rm -rf dist"

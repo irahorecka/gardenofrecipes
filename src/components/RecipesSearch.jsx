@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import Fuse from "fuse.js";
 import { Link, useNavigate } from "react-router-dom";
-import { flatRecipes } from "../data/recipes.js";
+import { flatRecipes, recipeSources } from "../data/recipes.js";
 
 export default function RecipeSearch({ autoFocus = false }) {
   const [q, setQ] = useState("");
@@ -111,7 +111,7 @@ export default function RecipeSearch({ autoFocus = false }) {
                     >
                       <span className="recipe-title pr-3">{r.title}</span>
                       <span className="recipe-meta whitespace-pre-wrap">
-                        {r.category}
+                        {recipeSources[r.volume].label} · {r.category}
                         {r.page ? ` · p.${r.page}` : ""}
                       </span>
                     </Link>
