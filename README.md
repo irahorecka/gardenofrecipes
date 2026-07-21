@@ -1,6 +1,6 @@
-# Garden of Recipes: Volume II
+# Garden of Recipes
 
-Static website to host _Garden of Recipes: Volume II (Christmas 1988)_ by Agnes Schoellman.
+Static website hosting the Schoellman family's _Garden of Recipes_ archive — Volume I and Volume II (the Christmas 1988 spiral-bound edition) — collected by Agnes Schoellman.
 
 Built using [Vite](https://vitejs.dev/) with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Deployed to GitHub Pages at [gardenofrecipes.org](https://gardenofrecipes.org).
 
@@ -23,6 +23,7 @@ This is a single-page application (SPA) using React Router v7. Routes like `/rec
 npm run dev        # Start local dev server
 npm run build      # Build + copy index.html to 404.html
 npm run preview    # Preview local build
+npm run validate   # Validate recipe data (slugs, PDFs, markdown)
 npm run deploy     # Deploy to GitHub Pages
 npm run clean      # Remove build output
 ```
@@ -30,5 +31,5 @@ npm run clean      # Remove build output
 ## Notes
 
 - Markdown recipes are stored under `public/`.
-- Recipe metadata is maintained in `src/data/recipeIndex.json`.
+- Recipe metadata is split by volume in `src/data/recipeIndexVol1.json` and `src/data/recipeIndexVol2.json`, and normalized through the shared adapter in `src/data/recipes.js`.
 - The main entry point is `src/main.jsx`. Routes are defined in `src/App.jsx`.
