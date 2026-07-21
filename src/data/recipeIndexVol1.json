@@ -1,6 +1,6 @@
 {
-  "Recipes": {
-    "pages": "1-26",
+  "Breads and Breakfast": {
+    "pages": "1-4",
     "recipes": [
       { "title": "Cornbread", "slug": "cornbread", "page": 1, "pdf": "P0.pdf" },
       { "title": "Biscuits", "slug": "biscuits", "page": 1, "pdf": "P0.pdf" },
@@ -15,18 +15,6 @@
         "slug": "basic-pancake",
         "page": 2,
         "pdf": "P1.pdf"
-      },
-      {
-        "title": "Quick Buttermilk Rolls",
-        "slug": "quick-buttermilk-rolls",
-        "page": 3,
-        "pdf": "P2.pdf"
-      },
-      {
-        "title": "Penny Hot Rolls",
-        "slug": "penny-hot-rolls",
-        "page": 3,
-        "pdf": "P2.pdf"
       },
       {
         "title": "Aunt Celia's Bread",
@@ -45,6 +33,23 @@
         "slug": "my-whole-wheat-bread",
         "page": 4,
         "pdf": "P3.pdf"
+      }
+    ]
+  },
+  "Rolls and Kolaches": {
+    "pages": "3-9",
+    "recipes": [
+      {
+        "title": "Quick Buttermilk Rolls",
+        "slug": "quick-buttermilk-rolls",
+        "page": 3,
+        "pdf": "P2.pdf"
+      },
+      {
+        "title": "Penny Hot Rolls",
+        "slug": "penny-hot-rolls",
+        "page": 3,
+        "pdf": "P2.pdf"
       },
       {
         "title": "Sweet Dough from Babs",
@@ -82,7 +87,12 @@
         "slug": "quick-baking-powder-doughnuts",
         "page": 9,
         "pdf": "P8.pdf"
-      },
+      }
+    ]
+  },
+  "Cakes and Desserts": {
+    "pages": "9-13",
+    "recipes": [
       {
         "title": "Apple Dumplings",
         "slug": "apple-dumplings-vol1",
@@ -148,7 +158,12 @@
         "slug": "carrot-cake-from-genie",
         "page": 13,
         "pdf": "P12.pdf"
-      },
+      }
+    ]
+  },
+  "Cookies": {
+    "pages": "14-18",
+    "recipes": [
       {
         "title": "Snickerdoodles Cookies",
         "slug": "snickerdoodles-cookies",
@@ -238,7 +253,12 @@
         "slug": "rolled-sugar-cookies",
         "page": 18,
         "pdf": "P17.pdf"
-      },
+      }
+    ]
+  },
+  "Pies": {
+    "pages": "19-20",
+    "recipes": [
       {
         "title": "Fool Proof Pie Crust",
         "slug": "fool-proof-pie-crust",
@@ -286,7 +306,12 @@
         "slug": "pear-filling-for-pie",
         "page": 20,
         "pdf": "P19.pdf"
-      },
+      }
+    ]
+  },
+  "Salads and Dressings": {
+    "pages": "21-23",
+    "recipes": [
       {
         "title": "Bachelor Salad",
         "slug": "bachelor-salad",
@@ -370,7 +395,12 @@
         "slug": "dump-salad",
         "page": 23,
         "pdf": "P22.pdf"
-      },
+      }
+    ]
+  },
+  "Meats and Savory": {
+    "pages": "24",
+    "recipes": [
       {
         "title": "Chicken & Dumplings",
         "slug": "chicken-and-dumplings-vol1",
@@ -394,7 +424,12 @@
         "slug": "all-seasoning-salt",
         "page": 24,
         "pdf": "P23.pdf"
-      },
+      }
+    ]
+  },
+  "Pickles": {
+    "pages": "26",
+    "recipes": [
       {
         "title": "Lola's Pickles",
         "slug": "lolas-pickles",
