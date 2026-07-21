@@ -12,7 +12,7 @@ This is a single-page application (SPA) using React Router v7. Routes like `/rec
 
 - **Framework**: React 19 + Vite 6
 - **Styling**: Tailwind CSS with Typography plugin
-- **Markdown Rendering**: `react-markdown` + `gray-matter`
+- **Markdown Rendering**: `react-markdown`
 - **Routing**: `react-router-dom@7`
 - **Deployment**: GitHub Pages (`gh-pages`)
 - **Linting**: ESLint with React hooks and refresh plugins
@@ -30,5 +30,5 @@ npm run clean      # Remove build output
 ## Notes
 
 - Markdown recipes are stored under `public/`.
-- Recipe metadata is parsed using `gray-matter`.
+- Recipe metadata is maintained in `src/data/recipeIndex.json`.
 - The main entry point is `src/main.jsx`. Routes are defined in `src/App.jsx`.

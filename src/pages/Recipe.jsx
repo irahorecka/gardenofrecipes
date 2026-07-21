@@ -42,7 +42,7 @@ export default function Recipes() {
       <article className="prose prose-stone prose-sm md:prose-base font-typewriter break-words text-[110%]">
         <ReactMarkdown
           components={{
-            h1: ({ ...props }) => {
+            h1: (props) => {
               const text = String(props.children);
               return (
                 <div className="[&+div]:mt-8 mb-4">
@@ -59,7 +59,7 @@ export default function Recipes() {
                 </div>
               );
             },
-            h2: ({ ...props }) => {
+            h2: (props) => {
               const text = String(props.children);
               return (
                 <div className="mb-4">
@@ -75,18 +75,20 @@ export default function Recipes() {
                 </div>
               );
             },
-            h3: ({ ...props }) => {
+            h3: (props) => {
               const text = String(props.children);
               return <h3 className="uppercase">{text}</h3>;
             },
-            ul: ({ ...props }) => (
+            ul: (props) => (
               <ul className="list-disc list-inside mt-2 mb-8" {...props} />
             ),
-            ol: ({ ...props }) => (
+            ol: (props) => (
               <ol className="list-decimal list-inside mt-2 mb-8" {...props} />
             ),
-            li: ({ ...props }) => <li className="mb-0" {...props} />,
-            p: ({ ...props }) => <p className="first:mb-4 mb-8" {...props} />,
+            li: (props) => <li className="mb-0" {...props} />,
+            p: (props) => (
+              <p className="first:mb-4 mb-8" {...props} />
+            ),
           }}
         >
           {md}
