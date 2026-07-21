@@ -1,30 +1,21 @@
 import { useMemo, useState } from "react";
 import Fuse from "fuse.js";
 import { Link, useNavigate } from "react-router-dom";
-import recipeIndex from "../data/recipeIndex.json";
-
-function flatten() {
-  const rows = [];
-  Object.entries(recipeIndex).forEach(([category, { recipes }]) => {
-    recipes.forEach((r) => rows.push({ ...r, category }));
-  });
-  return rows;
-}
+import { flatRecipes } from "../data/recipes.js";
 
 export default function RecipeSearch({ autoFocus = false }) {
   const [q, setQ] = useState("");
   const [active, setActive] = useState(-1); // keyboard highlight index
   const navigate = useNavigate();
 
-  const data = useMemo(flatten, []);
   const fuse = useMemo(
     () =>
-      new Fuse(data, {
+      new Fuse(flatRecipes, {
         includeScore: false,
         threshold: 0.35, // fuzzy but not too fuzzy
         keys: ["title", "category", "slug"],
       }),
-    [data],
+    [],
   );
 
   const results = q.trim()

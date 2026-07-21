@@ -1,8 +1,12 @@
 import { Link } from "react-router-dom";
-import recipeIndex from "../data/recipeIndex.json";
+import {
+  recipesByVolume,
+  recipeSources,
+  getPdfUrl,
+} from "../data/recipes.js";
 import RecipesSearch from "../components/RecipesSearch";
 
-const recipeCategories = Object.entries(recipeIndex).map(
+const recipeCategories = Object.entries(recipesByVolume[2]).map(
   ([category, { recipes }]) => ({
     category,
     recipes,
@@ -25,7 +29,7 @@ export default function Home() {
         A full scan of the original spiral-bound edition is available for
         download{" "}
         <a
-          href="recipes/pdf/GardenOfRecipesComplete.pdf"
+          href={recipeSources[2].completePdf}
           target="_blank"
           rel="noopener noreferrer"
           className="underline"
@@ -68,7 +72,7 @@ export default function Home() {
                   {".".repeat(60)}
                 </span>
                 <a
-                  href={`/recipes/pdf/${pdf}`}
+                  href={getPdfUrl({ volume: 2, pdf })}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline"
