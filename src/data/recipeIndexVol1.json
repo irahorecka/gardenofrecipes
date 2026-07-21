@@ -1,1 +1,412 @@
-{}
+{
+  "Recipes": {
+    "pages": "1-26",
+    "recipes": [
+      { "title": "Cornbread", "slug": "cornbread", "page": 1, "pdf": "P0.pdf" },
+      { "title": "Biscuits", "slug": "biscuits", "page": 1, "pdf": "P0.pdf" },
+      {
+        "title": "Favorite Pancake",
+        "slug": "favorite-pancake",
+        "page": 1,
+        "pdf": "P0.pdf"
+      },
+      {
+        "title": "Basic Pancake",
+        "slug": "basic-pancake",
+        "page": 2,
+        "pdf": "P1.pdf"
+      },
+      {
+        "title": "Quick Buttermilk Rolls",
+        "slug": "quick-buttermilk-rolls",
+        "page": 3,
+        "pdf": "P2.pdf"
+      },
+      {
+        "title": "Penny Hot Rolls",
+        "slug": "penny-hot-rolls",
+        "page": 3,
+        "pdf": "P2.pdf"
+      },
+      {
+        "title": "Aunt Celia's Bread",
+        "slug": "aunt-celias-bread",
+        "page": 3,
+        "pdf": "P2.pdf"
+      },
+      {
+        "title": "French Bread",
+        "slug": "french-bread",
+        "page": 4,
+        "pdf": "P3.pdf"
+      },
+      {
+        "title": "My Whole Wheat Bread",
+        "slug": "my-whole-wheat-bread",
+        "page": 4,
+        "pdf": "P3.pdf"
+      },
+      {
+        "title": "Sweet Dough from Babs",
+        "slug": "sweet-dough-from-babs",
+        "page": 5,
+        "pdf": "P4.pdf"
+      },
+      {
+        "title": "Basic Coffee Cake or Doughnuts",
+        "slug": "basic-coffee-cake-or-doughnuts",
+        "page": 5,
+        "pdf": "P4.pdf"
+      },
+      { "title": "Doughnuts", "slug": "doughnuts", "page": 5, "pdf": "P4.pdf" },
+      {
+        "title": "Kolache Recipe #1",
+        "slug": "kolache-recipe-1",
+        "page": 6,
+        "pdf": "P5.pdf"
+      },
+      {
+        "title": "Kolache Recipe #2",
+        "slug": "kolache-recipe-2",
+        "page": 7,
+        "pdf": "P6.pdf"
+      },
+      {
+        "title": "Apple Strudel Dough",
+        "slug": "apple-strudel-dough",
+        "page": 8,
+        "pdf": "P7.pdf"
+      },
+      {
+        "title": "Quick Baking Powder Doughnuts",
+        "slug": "quick-baking-powder-doughnuts",
+        "page": 9,
+        "pdf": "P8.pdf"
+      },
+      {
+        "title": "Apple Dumplings",
+        "slug": "apple-dumplings-vol1",
+        "page": 9,
+        "pdf": "P8.pdf"
+      },
+      {
+        "title": "Bread Pudding",
+        "slug": "bread-pudding",
+        "page": 10,
+        "pdf": "P9.pdf"
+      },
+      {
+        "title": "Funnel Cakes",
+        "slug": "funnel-cakes",
+        "page": 10,
+        "pdf": "P9.pdf"
+      },
+      {
+        "title": "Italian Buttermilk Cake",
+        "slug": "italian-buttermilk-cake",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Plain Cake from School",
+        "slug": "plain-cake-from-school",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Fruit Cocktail Cake",
+        "slug": "fruit-cocktail-cake",
+        "page": 11,
+        "pdf": "P10.pdf"
+      },
+      {
+        "title": "Oatmeal Cake",
+        "slug": "oatmeal-cake",
+        "page": 12,
+        "pdf": "P11.pdf"
+      },
+      {
+        "title": "Extra Good Apple or Pear Cake",
+        "slug": "extra-good-apple-or-pear-cake",
+        "page": 12,
+        "pdf": "P11.pdf"
+      },
+      {
+        "title": "Irish Potato Cake",
+        "slug": "irish-potato-cake",
+        "page": 13,
+        "pdf": "P12.pdf"
+      },
+      {
+        "title": "One Bowl Buttermilk Cake",
+        "slug": "one-bowl-buttermilk-cake",
+        "page": 13,
+        "pdf": "P12.pdf"
+      },
+      {
+        "title": "Carrot Cake from Genie",
+        "slug": "carrot-cake-from-genie",
+        "page": 13,
+        "pdf": "P12.pdf"
+      },
+      {
+        "title": "Snickerdoodles Cookies",
+        "slug": "snickerdoodles-cookies",
+        "page": 14,
+        "pdf": "P13.pdf"
+      },
+      {
+        "title": "Cocoanut Pecan Cookies",
+        "slug": "cocoanut-pecan-cookies",
+        "page": 14,
+        "pdf": "P13.pdf"
+      },
+      {
+        "title": "Cookies ??? Nameless",
+        "slug": "cookies-nameless",
+        "page": 14,
+        "pdf": "P13.pdf"
+      },
+      {
+        "title": "Ice Box Cookies from Granny Schott",
+        "slug": "ice-box-cookies-from-granny-schott",
+        "page": 14,
+        "pdf": "P13.pdf"
+      },
+      {
+        "title": "White Fruit Cookies",
+        "slug": "white-fruit-cookies",
+        "page": 15,
+        "pdf": "P14.pdf"
+      },
+      {
+        "title": "Peanut Butter Cookies",
+        "slug": "peanut-butter-cookies",
+        "page": 15,
+        "pdf": "P14.pdf"
+      },
+      {
+        "title": "Peanut Butter Cookies #2",
+        "slug": "peanut-butter-cookies-2",
+        "page": 15,
+        "pdf": "P14.pdf"
+      },
+      {
+        "title": "Oatmeal Cookies from School",
+        "slug": "oatmeal-cookies-from-school",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Oatmeal Crunchies from Lillie",
+        "slug": "oatmeal-crunchies-from-lillie",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Date Snaps from Lillie",
+        "slug": "date-snaps-from-lillie",
+        "page": 16,
+        "pdf": "P15.pdf"
+      },
+      {
+        "title": "Ginger Cookies",
+        "slug": "ginger-cookies-vol1",
+        "page": 17,
+        "pdf": "P16.pdf"
+      },
+      {
+        "title": "Ice Box Cookies from Tom's Mom",
+        "slug": "ice-box-cookies-from-toms-mom",
+        "page": 17,
+        "pdf": "P16.pdf"
+      },
+      {
+        "title": "Orange Slice Cookies",
+        "slug": "orange-slice-cookies",
+        "page": 17,
+        "pdf": "P16.pdf"
+      },
+      {
+        "title": "School Sugar Cookies",
+        "slug": "school-sugar-cookies",
+        "page": 18,
+        "pdf": "P17.pdf"
+      },
+      {
+        "title": "Rolled Sugar Cookies",
+        "slug": "rolled-sugar-cookies",
+        "page": 18,
+        "pdf": "P17.pdf"
+      },
+      {
+        "title": "Fool Proof Pie Crust",
+        "slug": "fool-proof-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Pie Crust",
+        "slug": "pie-crust-vol1",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Pie Crust for One Pie",
+        "slug": "pie-crust-for-one-pie",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Egg Custard Filling",
+        "slug": "egg-custard-filling",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
+        "title": "Never Fail Pie Crust",
+        "slug": "never-fail-pie-crust-vol1",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "110 Year Old Pie Crust",
+        "slug": "110-year-old-pie-crust",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Pie Crust Dough",
+        "slug": "pie-crust-dough",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Pear Filling for Pie",
+        "slug": "pear-filling-for-pie",
+        "page": 20,
+        "pdf": "P19.pdf"
+      },
+      {
+        "title": "Bachelor Salad",
+        "slug": "bachelor-salad",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Salad Dressing on Cabbage",
+        "slug": "salad-dressing-on-cabbage",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Cole Slaw",
+        "slug": "cole-slaw",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Old Fashioned Cole Slaw Dressing",
+        "slug": "old-fashioned-cole-slaw-dressing",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Pepper Cabbage",
+        "slug": "pepper-cabbage",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Nine Day Slaw",
+        "slug": "nine-day-slaw",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Perfection Salad",
+        "slug": "perfection-salad",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Old Fashioned Wilted Lettuce",
+        "slug": "old-fashioned-wilted-lettuce",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Dressing for Leaf Lettuce",
+        "slug": "dressing-for-leaf-lettuce",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Potato Salad Dressing",
+        "slug": "potato-salad-dressing",
+        "page": 22,
+        "pdf": "P21.pdf"
+      },
+      {
+        "title": "Macaroni Salad",
+        "slug": "macaroni-salad",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Poppy Seed Dressing for Fresh Fruit",
+        "slug": "poppy-seed-dressing-for-fresh-fruit",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "24 Hour Fruit Salad",
+        "slug": "24-hour-fruit-salad",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Dump Salad",
+        "slug": "dump-salad",
+        "page": 23,
+        "pdf": "P22.pdf"
+      },
+      {
+        "title": "Chicken & Dumplings",
+        "slug": "chicken-and-dumplings-vol1",
+        "page": 24,
+        "pdf": "P23.pdf"
+      },
+      {
+        "title": "Dumplings",
+        "slug": "dumplings-vol1",
+        "page": 24,
+        "pdf": "P23.pdf"
+      },
+      {
+        "title": "Cranberry Sauce",
+        "slug": "cranberry-sauce",
+        "page": 24,
+        "pdf": "P23.pdf"
+      },
+      {
+        "title": "All Seasoning Salt",
+        "slug": "all-seasoning-salt",
+        "page": 24,
+        "pdf": "P23.pdf"
+      },
+      {
+        "title": "Lola's Pickles",
+        "slug": "lolas-pickles",
+        "page": 26,
+        "pdf": "P25.pdf"
+      },
+      {
+        "title": "Garlic Pickles",
+        "slug": "garlic-pickles",
+        "page": 26,
+        "pdf": "P25.pdf"
+      }
+    ]
+  }
+}
