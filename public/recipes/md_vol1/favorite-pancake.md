@@ -1,6 +1,6 @@
 # Favorite Pancake
 
-_From Better Homes and Gardens Small Book._
+From Better Homes and Gardens Small Book.
 
 ## Ingredients
 
