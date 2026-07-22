@@ -66,6 +66,9 @@ export default function RecipeSearch({ autoFocus = false }) {
           className="w-full rounded border border-black/20 bg-white/90 px-3 py-2 text-gray-800 placeholder-gray-400 outline-none focus:border-black/40"
           type="text"
           inputMode="search"
+          id="recipe-search"
+          name="recipe-search"
+          autoComplete="off"
           aria-label="Search recipes"
         />
         {q && (
