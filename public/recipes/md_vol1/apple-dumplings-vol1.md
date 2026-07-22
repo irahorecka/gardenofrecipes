@@ -30,5 +30,6 @@ Delicious -- Don's favorite
 7. Dot each apple with the 2 tbsp butter, then fold and pinch the corners of the dough around the apple
 8. Arrange the dumplings in a 9x13 pan and pour the syrup over them
 9. Bake at 425 degrees for 35 minutes
+10. Serve warm with its own sauce
 
 Delicious. Go on a diet tomorrow.
