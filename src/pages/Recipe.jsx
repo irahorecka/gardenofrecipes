@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import { Link, useParams } from "react-router-dom";
 import RecipesLayout from "../components/RecipesLayout";
-import recipeIndex from "../data/recipeIndex.json";
+import { flatRecipes, getPdfUrl, getMarkdownUrl } from "../data/recipes.js";
 
 export default function Recipes() {
   const { slug } = useParams();
@@ -10,7 +10,23 @@ export default function Recipes() {
   const [pdfUrl, setPdfUrl] = useState("");
 
   useEffect(() => {
-    fetch(`/recipes/md/${slug}.md`)
+    const entry = flatRecipes.find((r) => r.slug === slug);
+
+    if (!entry) {
+      setMd(`# Recipe not found: ${slug}`);
+      setPdfUrl("");
+      return;
+    }
+
+    setPdfUrl(getPdfUrl(entry));
+
+    const mdUrl = getMarkdownUrl(entry);
+    if (!mdUrl) {
+      setMd(`# ${entry.title}\n\nThis recipe has not been transcribed yet.`);
+      return;
+    }
+
+    fetch(mdUrl)
       .then((res) => {
         if (!res.ok) throw new Error(res.statusText);
         return res.text();
@@ -19,16 +35,6 @@ export default function Recipes() {
       .catch(() => {
         setMd(`# Recipe not found: ${slug}`);
       });
-
-    // Lookup PDF URL from imported JSON
-    const entry = Object.values(recipeIndex)
-      .flatMap((section) => section.recipes)
-      .find((r) => r.slug === slug);
-    if (entry?.pdf) {
-      setPdfUrl(`/recipes/pdf/${entry.pdf}`);
-    } else {
-      setPdfUrl("");
-    }
   }, [slug]);
 
   return (

@@ -1,15 +1,12 @@
-import { Link } from "react-router-dom";
-
 export default function Layout({ children }) {
   return (
     <div className="min-h-screen flex flex-col justify-between text-gray-900 font-typewriter">
       <header className="py-6 mt-8 md:mt-10 px-4 text-center">
         <h1 className="text-[260%] md:text-[320%] font-bold font-cursive tracking-wide">
-          Garden of Recipes: Volume II
+          Garden of Recipes
         </h1>
         <div className="mt-8 text-lg md:text-xl leading-snug">
           <div>Collected by Agnes Schoellman</div>
-          <div>Christmas 1988</div>
         </div>
         <div className="mt-6">
           <img

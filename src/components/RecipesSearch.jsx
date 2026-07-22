@@ -1,30 +1,21 @@
 import { useMemo, useState } from "react";
 import Fuse from "fuse.js";
 import { Link, useNavigate } from "react-router-dom";
-import recipeIndex from "../data/recipeIndex.json";
-
-function flatten() {
-  const rows = [];
-  Object.entries(recipeIndex).forEach(([category, { recipes }]) => {
-    recipes.forEach((r) => rows.push({ ...r, category }));
-  });
-  return rows;
-}
+import { flatRecipes, recipeSources } from "../data/recipes.js";
 
 export default function RecipeSearch({ autoFocus = false }) {
   const [q, setQ] = useState("");
   const [active, setActive] = useState(-1); // keyboard highlight index
   const navigate = useNavigate();
 
-  const data = useMemo(flatten, []);
   const fuse = useMemo(
     () =>
-      new Fuse(data, {
+      new Fuse(flatRecipes, {
         includeScore: false,
         threshold: 0.35, // fuzzy but not too fuzzy
         keys: ["title", "category", "slug"],
       }),
-    [data],
+    [],
   );
 
   const results = q.trim()
@@ -75,6 +66,9 @@ export default function RecipeSearch({ autoFocus = false }) {
           className="w-full rounded border border-black/20 bg-white/90 px-3 py-2 text-gray-800 placeholder-gray-400 outline-none focus:border-black/40"
           type="text"
           inputMode="search"
+          id="recipe-search"
+          name="recipe-search"
+          autoComplete="off"
           aria-label="Search recipes"
         />
         {q && (
@@ -120,7 +114,7 @@ export default function RecipeSearch({ autoFocus = false }) {
                     >
                       <span className="recipe-title pr-3">{r.title}</span>
                       <span className="recipe-meta whitespace-pre-wrap">
-                        {r.category}
+                        {recipeSources[r.volume].label} · {r.category}
                         {r.page ? ` · p.${r.page}` : ""}
                       </span>
                     </Link>
