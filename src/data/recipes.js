@@ -6,6 +6,7 @@ export const recipeSources = {
     label: "Volume I",
     pdfBase: "/recipes/pdf_vol1/",
     mdBase: "/recipes/md_vol1/",
+    completePdf: "/recipes/pdf_vol1/GardenOfRecipesVol1Complete.pdf",
   },
   2: {
     label: "Volume II",

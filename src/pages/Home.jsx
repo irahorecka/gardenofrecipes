@@ -10,21 +10,30 @@ export default function Home() {
           Schoellman Recipe Archive
         </h1>
         <p>
-          A digital preservation of a family recipe archive, spanning two
-          volumes inspired by Texas Czech cuisine and lovingly compiled by
-          Agnes Schoellman and others. Once gifted in print to Joe Horecka,
-          it now finds a quiet home on the web.
+          A digital preservation of a family recipe book inspired by
+          Texas Czech cuisine and lovingly compiled by Agnes Schoellman and
+          others. Once gifted in print to Joe Horecka, it now finds a quiet home
+          on the web.
         </p>
         <p className="mt-4 mb-6">
-          A full scan of Volume II's original spiral-bound edition is
-          available for download{" "}
+          Full scans of the original spiral-bound volumes are
+          available for download:{" "}
+          <a
+            href={recipeSources[1].completePdf}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            Volume I
+          </a>{" "}
+          and{" "}
           <a
             href={recipeSources[2].completePdf}
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            here
+            Volume II
           </a>
           .
         </p>
