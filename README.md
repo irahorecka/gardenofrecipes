@@ -1,6 +1,6 @@
 # Garden of Recipes
 
-Static website hosting the Schoellman family's _Garden of Recipes_ archive — Volume I and Volume II (the Christmas 1988 spiral-bound edition) — collected by Agnes Schoellman.
+Static website hosting the Schoellman family's _Garden of Recipes_ archive — Volume I and Volume II — collected by Agnes Schoellman.
 
 Built using [Vite](https://vitejs.dev/) with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Deployed to GitHub Pages at [gardenofrecipes.org](https://gardenofrecipes.org).
 
