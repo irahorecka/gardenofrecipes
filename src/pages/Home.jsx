@@ -5,7 +5,7 @@ import VolumeRecipeIndex from "../components/VolumeRecipeIndex";
 export default function Home() {
   return (
     <>
-      <div className="prose mx-auto py-1 text-center text-[110%] max-w-prose">
+      <div className="mx-auto py-1 text-center text-[110%] max-w-prose">
         <h1 className="mb-6 text-[180%] font-semibold font-cursive">
           Schoellman Recipe Archive
         </h1>

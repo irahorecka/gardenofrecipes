@@ -39,7 +39,7 @@ export default function Recipes() {
 
   return (
     <RecipesLayout>
-      <article className="prose prose-stone prose-sm md:prose-base font-typewriter break-words text-[110%]">
+      <article className="font-typewriter break-words text-[110%]">
         <ReactMarkdown
           components={{
             h1: (props) => {
