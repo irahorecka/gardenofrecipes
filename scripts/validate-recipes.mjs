@@ -16,7 +16,7 @@ const sources = [
     label: "Volume I",
     indexPath: "src/data/recipeIndexVol1.json",
     pdfDir: "public/recipes/pdf_vol1",
-    mdDir: null,
+    mdDir: "public/recipes/md_vol1",
   },
   {
     volume: 2,
