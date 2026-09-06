@@ -2,6 +2,21 @@
 
 Aunt Mary. This is very good.
 
+## Ingredients
+
+- 1/2 pound hamburger meat
+- turkey gizzards, liver, and any chicken or turkey parts
+- 1 stick of celery, for cooking with the meats
+- 8 or 10 slices bread, toasted
+- 1 recipe of cornbread
+- soup broth from cooking the meats
+- 1 onion, chopped
+- some celery, chopped
+- oleo or bacon drippings, for frying
+- 3 beaten eggs
+- Morton's chicken soup base (optional)
+- salt, as needed
+
 ## Instructions
 
 ### Prepare the meats

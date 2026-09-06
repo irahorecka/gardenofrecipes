@@ -1,5 +1,12 @@
 # Homemade Kraut I
 
+## Ingredients
+
+- cabbage, shredded
+- fresh dill
+- 1 tbsp canning salt per quart jar
+- boiling water (rain water is best)
+
 ## Instructions
 
 1. Shred cabbage and stuff tightly into quart jars

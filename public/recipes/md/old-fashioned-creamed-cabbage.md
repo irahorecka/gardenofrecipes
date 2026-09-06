@@ -2,6 +2,15 @@
 
 Dorothy's Favorite. Delicious! "Sladké Zelí" – Sweet Cabbage
 
+## Ingredients
+
+- cabbage, cut rather coarsely
+- boiling salted water, just to cover
+- about 2 tbsp oleo
+- about 2 tbsp flour
+- pepper and vinegar, to suit your taste
+- a speck of sugar (optional)
+
 ## Instructions
 
 1. Cut cabbage rather coarsely and place in boiling salted water, just enough to cover

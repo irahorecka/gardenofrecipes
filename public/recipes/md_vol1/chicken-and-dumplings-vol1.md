@@ -2,6 +2,15 @@
 
 From Aunt Celia, Old Rosenberg Book
 
+## Ingredients
+
+- 1 fryer, cut up
+- salt and pepper
+- flour, for coating
+- 1 chopped onion
+- water
+- 3 tbsp flour, for thickening the gravy
+
 ## Chicken
 
 1. Cut up a fryer. Wash and drain it
