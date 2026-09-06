@@ -1,6 +1,6 @@
 # Potpourri to Freshen the Microwave Oven
 
-From Dorothy Matschek. To refresh the interior of the microwave and make the whole kitchen smell heavenly, here is a “secret formula:”
+From Dorothy Matschek. To refresh the interior of the microwave and make the whole kitchen smell heavenly, here is a "secret formula:"
 
 ## Ingredients
 

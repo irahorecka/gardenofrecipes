@@ -1,6 +1,6 @@
 # Sammy's Chili
 
-This is from the restaurant where I was a cook. This is from a recipe for 10 pounds of meat, so it’s not exact.
+This is from the restaurant where I was a cook. This is from a recipe for 10 pounds of meat, so it's not exact.
 
 ## Ingredients (per 1 pound of meat)
 
@@ -30,7 +30,7 @@ _Add spices to suit your own taste._
 
 ## Note
 
-At Sammy’s, dry red peppers were used:
+At Sammy's, dry red peppers were used:
 
 - Stems and as many seeds as possible were removed
 - Peppers were boiled in water, then peeled once cooled

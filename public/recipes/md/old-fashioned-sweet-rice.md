@@ -1,6 +1,6 @@
 # Old Fashioned Sweet Rice
 
-This is very good. It’s good on the 2nd or 3rd day heated in the microwave.
+This is very good. It's good on the 2nd or 3rd day heated in the microwave.
 
 ## Instructions
 

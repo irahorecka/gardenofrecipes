@@ -1,6 +1,6 @@
 # Old Fashioned Creamed Cabbage
 
-Dorothy’s Favorite. Delicious! "Sladké Zelí" – Sweet Cabbage
+Dorothy's Favorite. Delicious! "Sladké Zelí" – Sweet Cabbage
 
 ## Instructions
 
