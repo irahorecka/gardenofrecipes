@@ -22,7 +22,7 @@ Very good
 3. Pour yeast into warm water to dissolve
 4. Add other ingredients
 5. Stir in 2 cups flour
-6. Place all in blender, then add more cups of flour and mix
+6. Place all in blender, then add 2 more cups flour and mix
 7. Remove into a big bowl and gradually add the rest of the flour and mix by hand
 8. When the dough no longer sticks to the palm of your hand, you've added enough flour
 9. Grease dough, cover, and let rise 15 minutes
@@ -32,3 +32,5 @@ Very good
 13. Let rise until double
 14. Place in a preheated oven at 350 degrees for 30 minutes or until nice and brown
 15. Butter the top and put on a cake rack in a big brown paper bag until cool
+
+This bread comes out very tender.

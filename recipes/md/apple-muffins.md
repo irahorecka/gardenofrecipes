@@ -1,4 +1,4 @@
-# Apple muffins
+# Apple Muffins
 
 ## Ingredients
 

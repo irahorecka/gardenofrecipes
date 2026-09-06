@@ -1,6 +1,6 @@
 # Marinated Fryer for Frying
 
-Julie Davis’ recipe — a friend since 1972. This is very good.
+Julie Davis' recipe — a friend since 1972. This is very good.
 
 ## Ingredients
 

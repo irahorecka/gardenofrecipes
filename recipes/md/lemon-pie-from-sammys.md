@@ -7,7 +7,7 @@ I got the recipe from Dottie Hageman.
 - 1 1/4 cups sugar
 - 4 tbsp cornstarch
 - juice of 2 lemons
-- 3 egg yolks
+- 3 egg yolks (whites reserved for the meringue)
 - 1/4 stick oleo
 - 2 cups water
 - 1/4 tsp salt

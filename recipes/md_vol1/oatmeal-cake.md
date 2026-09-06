@@ -17,9 +17,9 @@
 ## Instructions
 
 1. Pour the boiling water over the oatmeal and set aside
-2. Cream the oleo and sugars
+2. Cream the oleo and sugars, then beat in the eggs and vanilla
 3. Add the sifted dry ingredients
-4. Add the oatmeal mixture
+4. Then add the oatmeal mixture
 5. Mix and put into greased and flour-dusted pans
 6. Bake at 350 degrees
 

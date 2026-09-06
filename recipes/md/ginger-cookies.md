@@ -16,6 +16,7 @@ These have a cracked appearance and are firm.
 - 1 egg
 - 1 tbsp molasses
 - 1 tbsp karo syrup
+- 1 tsp cinnamon and 1/2 cup sugar, for rolling
 
 ## Instructions
 

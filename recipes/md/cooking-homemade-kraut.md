@@ -2,6 +2,13 @@
 
 Old fashioned Bohemian style. You may use a can of bought kraut, but it is better if you use a jar of kraut.
 
+## Ingredients
+
+- 1 jar homemade kraut (or a can of bought kraut)
+- a small amount of water
+- bacon drippings
+- flour and a little cold water, for the paste
+
 ## Instructions
 
 1. When the kraut is ready to eat, put it in a pot

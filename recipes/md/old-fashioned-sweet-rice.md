@@ -1,6 +1,17 @@
 # Old Fashioned Sweet Rice
 
-This is very good. It’s good on the 2nd or 3rd day heated in the microwave.
+This is very good. It's good on the 2nd or 3rd day heated in the microwave.
+
+## Ingredients
+
+- 2 cups dry rice
+- 4 cups water
+- 1 stick oleo
+- 3/4 cup sugar
+- 1 tsp vanilla
+- 2 cups milk
+- salt, to taste
+- cinnamon and sugar, and more melted oleo (optional)
 
 ## Instructions
 

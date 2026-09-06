@@ -4,6 +4,18 @@ These are best to eat as soon as they are done.
 
 ## Chicken
 
+### Ingredients
+
+- 1 fryer, cut up
+- salt, pepper, and flour, for seasoning
+- shortening, for frying
+- 1 chopped onion
+- about 1 1/2 tbsp flour, for the gravy
+- water, enough to cover the chicken
+- a piece of celery (optional, for seasoning)
+
+### Instructions
+
 1. Cut up a fryer and season with salt, pepper, and flour
 2. Put shortening in a heavy pot and fry chicken pieces until light brown
 3. Remove pieces and add chopped onion. Fry until golden tan

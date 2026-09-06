@@ -1,5 +1,11 @@
 # Homemade Noodles
 
+## Ingredients
+
+- 2 eggs
+- a bit of salt
+- flour, enough to make a stiff dough
+
 ## Instructions
 
 1. Beat 2 eggs well

@@ -11,7 +11,8 @@
 
 ## Instructions
 
-1. Mix all ingredients together
-2. Bake at 325 degrees
+1. Mix the eggs and sugar
+2. Add and mix the rest of the ingredients
+3. Mix and bake at 325 degrees until done
 
 (I didn't make this since I worked at school.)

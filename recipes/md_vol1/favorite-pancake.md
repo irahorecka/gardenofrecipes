@@ -6,7 +6,7 @@ From Better Homes and Gardens Small Book.
 
 - 1 1/4 cup sifted flour
 - 3 tsp baking powder
-- 1/4 tsp salt _(Note: adjusted to 1/2 tsp)_
+- 1/2 tsp salt _(Note: handwritten note on the page changes this to 1/4 tsp)_
 - 1 tbsp sugar
 - 1 beaten egg
 - 2 tbsp salad oil

@@ -11,6 +11,8 @@ Very good
 - 1 cup flour
 - 1 tbsp vanilla
 - 1/4 tsp salt
+- powdered sugar, for the towel
+- jelly, for spreading
 
 ## Instructions
 

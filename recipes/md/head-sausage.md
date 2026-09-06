@@ -2,6 +2,18 @@
 
 Aunt Mary Appelt. This is very good for a breakfast treat.
 
+## Ingredients
+
+- 1 hog head
+- hog ears and about 1/4 of the hog liver (optional)
+- lightly salted water, for boiling
+- 2 1/2 to 3 cups rice
+- 1 medium onion, finely chopped
+- pepper
+- a little bit of sage
+- a bit of finely chopped or mashed garlic, with salt mixed with it
+- sausage casings
+
 ## Instructions
 
 1. Boil a hog head in lightly salted water until done (meat comes off the bones)
@@ -11,7 +23,7 @@ Aunt Mary Appelt. This is very good for a breakfast treat.
 5. Remove all meat from the broth and save the broth
 6. Grind all the meat
 7. Mix in the onion, pepper, a little sage, and a bit of finely chopped or mashed garlic with salt
-8. Mix thoroughly and stuff very loosely in casings
+8. Mix in the rice and stuff very loosely in casings
 9. Tie ends together and pierce the casings with a needle to prevent popping during reheating
 10. Simmer in the saved broth—do not boil
 11. Remove, cool, and store in freezer bags

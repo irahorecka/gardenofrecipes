@@ -10,6 +10,7 @@ Dallas Book. I tried. They are good!
 - 3 cloves of garlic (or to taste)
 - 1 slice of onion
 - _Optional:_ 1/8 tsp each of turmeric and alum
+- cucumbers, to fill the jar
 
 ### Brine (makes enough for 8 to 9 quarts)
 

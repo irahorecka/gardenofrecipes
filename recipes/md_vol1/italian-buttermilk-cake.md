@@ -16,13 +16,14 @@
 ## Instructions
 
 1. Preheat the oven to 325 degrees
-2. Combine the soda and buttermilk
-3. Cream the sugar, Crisco, and oleo
-4. Add the egg yolks
-5. Add the flour alternately with the buttermilk mixture
-6. Add the vanilla, pecans, and coconut
-7. Beat the egg whites until stiff and fold into the batter
-8. Bake for 25 minutes in 2 greased 9-inch pans
+2. Combine the soda and buttermilk and let stand for a few minutes
+3. Beat the egg whites
+4. Cream the sugar, Crisco, and oleo
+5. Add the egg yolks one at a time
+6. Add the buttermilk alternately with the flour to the above mixture
+7. Stir in the vanilla and fold in the beaten egg whites
+8. Gently stir in the coconut and nuts
+9. Bake for 25 minutes in 2 greased 9-inch pans
 
 ## Icing
 

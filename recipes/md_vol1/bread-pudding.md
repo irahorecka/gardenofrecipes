@@ -17,10 +17,12 @@ From the Hallettsville CDA Cookbook
 
 ## Instructions
 
-1. Place the cubed bread and raisins in a baking dish
-2. Pour the boiling water over the bread and raisins
-3. Add the vanilla, evaporated milk, beaten eggs, 1/2 cup sugar, and salt
-4. Sprinkle the top with the 4 tsp sugar and cinnamon
-5. Bake at 350 degrees for 30 minutes
+1. In a 1 1/2 quart casserole, place the toasted, buttered, and cubed bread
+2. Add the raisins on top of that
+3. Pour the boiling water over this
+4. Mix together the vanilla, evaporated milk, beaten eggs, 1/2 cup sugar, and salt
+5. Pour this over the bread and let stand 10 to 15 minutes
+6. Sprinkle with the 4 tsp sugar and the cinnamon
+7. Bake at 350 degrees for 30 minutes
 
 This is very good.

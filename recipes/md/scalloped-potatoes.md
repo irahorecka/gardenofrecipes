@@ -18,4 +18,4 @@
 4. Sprinkle grated cheese between layers and repeat layering
 5. You may sprinkle paprika on top
 6. Bake until it bubbles
-7. You may need to add more milk so it won’t be too thick
+7. You may need to add more milk so it won't be too thick

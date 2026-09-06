@@ -9,6 +9,7 @@
 - 1 1/2 cups sugar
 - 2 3/4 cups sifted flour
 - 1 tsp baking soda
+- 2 tbsp sugar and 2 tsp cinnamon, for rolling
 
 ## Instructions
 
