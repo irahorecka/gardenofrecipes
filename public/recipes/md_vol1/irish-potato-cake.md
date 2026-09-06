@@ -20,10 +20,11 @@ Nona Keller (cook) had this cake at Mrs. Helen Schott's farewell party at school
 
 1. Cream the butter and sugar
 2. Add the eggs
-3. Add the dry ingredients alternately with the milk
-4. Add the nuts
-5. Bake in a greased and floured Bundt pan for 1 hour, or until done when tested with a toothpick. Bake at 350 degrees
-6. This can also be made in a sheet pan
+3. Beat in the cooled mashed potatoes and the vanilla
+4. Add the dry ingredients alternately with the milk
+5. Add the nuts
+6. Bake in a greased and floured Bundt pan for 1 hour, or until done when tested with a toothpick. Bake at 350 degrees
+7. This can also be made in a sheet pan
 
 ## Icing for Irish Potato Cake
 

@@ -6,6 +6,7 @@
 - 1 cup milk
 - 3/4 cup sugar
 - 1 tsp vanilla
+- nutmeg, for sprinkling
 
 ## Instructions
 

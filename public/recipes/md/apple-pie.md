@@ -13,6 +13,8 @@ Very good
 - 1 tsp nutmeg to suit your taste _(Joe note)_
 - lemon juice (for sprinkling)
 - 2 tbsp oleo _(Joe: use butter)_
+- milk, for brushing the top crust
+- sugar, for sprinkling on top
 
 ## Instructions
 
@@ -26,3 +28,5 @@ Very good
 8. Make a few gashes in the crust
 9. Brush with milk and sprinkle sugar on top
 10. Bake at 350 degrees until done _(Joe: ~50 minutes)_
+
+_(Joe also notes: use a Crisco crust.)_

@@ -17,5 +17,6 @@
 2. Add the eggs
 3. Sift the dry ingredients together
 4. Add the dry ingredients alternately with the milk
-5. Add the vanilla
-6. Bake at 350 degrees
+5. Then add the vanilla
+6. Mix and pour into greased and flour-dusted pans
+7. Bake at 350 degrees

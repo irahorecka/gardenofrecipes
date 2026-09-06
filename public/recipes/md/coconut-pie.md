@@ -5,7 +5,7 @@
 - 1/2 cup sugar
 - 3/4 cup coconut
 - 2 1/4 cups milk
-- 2 egg yolks
+- 2 egg yolks (whites reserved for the meringue)
 - 2 or more heaping tbsp cornstarch
 - 1/2 tsp vanilla
 - 1/4 tsp salt

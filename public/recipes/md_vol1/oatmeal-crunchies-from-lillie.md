@@ -13,6 +13,7 @@
 - 1/2 cup brown sugar
 - 1 egg
 - 3/4 cup oatmeal
+- sugar, for dipping
 
 ## Instructions
 

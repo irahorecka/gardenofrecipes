@@ -12,6 +12,7 @@
 - 1/4 tsp cloves
 - 1 tsp cinnamon
 - 2 1/4 cups flour
+- sugar, for dipping
 
 ## Instructions
 

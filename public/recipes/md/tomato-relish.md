@@ -1,6 +1,6 @@
 # Tomato Relish
 
-From Maria Horecka. This will keep in the ice box for a year. This is good for meats, vegetables, or sandwiches. (I made a small batch to suit my taste.)
+From Maria Horecka. Do not cook. This will keep in the ice box for a year. This is good for meats, vegetables, or sandwiches. (I made a small batch to suit my taste.)
 
 ## Ingredients
 
