@@ -272,6 +272,12 @@
         "pdf": "P18.pdf"
       },
       {
+        "title": "Connie Worley Pie Crust Recipe",
+        "slug": "connie-worley-pie-crust",
+        "page": 19,
+        "pdf": "P18.pdf"
+      },
+      {
         "title": "Pie Crust for One Pie",
         "slug": "pie-crust-for-one-pie",
         "page": 19,
@@ -315,6 +321,12 @@
       {
         "title": "Bachelor Salad",
         "slug": "bachelor-salad",
+        "page": 21,
+        "pdf": "P20.pdf"
+      },
+      {
+        "title": "Dressing for Texas Slaw",
+        "slug": "dressing-for-texas-slaw",
         "page": 21,
         "pdf": "P20.pdf"
       },
