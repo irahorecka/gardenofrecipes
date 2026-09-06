@@ -25,4 +25,4 @@ Important to use Spicette gum drop brand for flavor. These are good.
 5. Add the remaining flour mixture alternately with the beaten egg
 6. Stir in gum drops and oatmeal mixture
 7. Make into 1 inch balls and place on greased cookie sheet
-8. Bake at 350°F for about 10 minutes
+8. Bake at 350 degrees for about 10 minutes

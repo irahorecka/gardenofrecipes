@@ -16,4 +16,4 @@ My Aunt Mary Janacek made this for us in 1918–1920. It was very good. I do not
 2. Make a batter similar to pancake batter (do not use sugar)
 3. Add onion, green pepper, salt, and pepper to the batter
 4. Pour batter over the chicken
-5. Bake at 350°F until done
+5. Bake at 350 degrees until done

@@ -29,4 +29,4 @@ Aunt Mary. This is very good.
 - Add 3 beaten eggs
 - Season with Morton's chicken soup base and salt to taste
 - Mix all together and put in a greased pan
-- Bake at 350°F for 45 minutes
+- Bake at 350 degrees for 45 minutes
