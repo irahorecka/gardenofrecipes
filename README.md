@@ -8,6 +8,10 @@ Built using [Vite](https://vitejs.dev/) with [React](https://reactjs.org/) and [
 
 This is a single-page application (SPA) using React Router v7. Routes like `/recipes/basic-pancakes` are resolved client-side. A fallback `404.html` (copied from `index.html`) ensures routing works on reload when served via GitHub Pages.
 
+## SEO
+
+`seo/plugin.js` runs at build time. It writes a real HTML page for the home page and for every recipe (`dist/recipes/<slug>/index.html`) with its own title, description, canonical link and the recipe text, so crawlers need no JavaScript; React replaces that text on load. It also writes `sitemap.xml` and `robots.txt`. `seo/verify.js` runs after the build and fails it if any page lacks a title, description, canonical link or single `<h1>`. `npm test` covers the renderers in `seo/render.js`.
+
 ## Stack
 
 - **Framework**: React 19 + Vite 6
@@ -24,6 +28,7 @@ npm run dev        # Start local dev server
 npm run build      # Build + copy index.html to 404.html
 npm run preview    # Preview local build
 npm run validate   # Validate recipe data (slugs, PDFs, markdown)
+npm test           # Unit tests for the SEO renderers
 npm run deploy     # Deploy to GitHub Pages
 npm run clean      # Remove build output
 ```
