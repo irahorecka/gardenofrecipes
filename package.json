@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp dist/index.html dist/404.html",
+    "build": "vite build && cp dist/index.html dist/404.html && node seo/verify.js",
     "preview": "vite preview",
     "lint": "eslint .",
     "validate": "node scripts/validate-recipes.mjs",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "test": "node --test seo/render.test.js"
   },
   "dependencies": {
     "fuse.js": "^7.1.0",
